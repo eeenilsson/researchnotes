@@ -1,0 +1,11 @@
+rmd_files: ["index.rmd", "prolog.rmd", "writing-science-basics.rmd", "writin-science-guide.rmd"]
+book_filename: forskningsnoter
+output_dir: content
+delete_merged_file: true
+language:
+  label:
+    fig: "Figur "
+    tab: "Tabell "
+  ui:
+    edit: "Edit"
+chapter_name: "Kapitel "

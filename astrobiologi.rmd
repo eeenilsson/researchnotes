@@ -1,0 +1,37 @@
+---
+title: "Astrobiologi"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Artikel"]
+slug: astrobiologi
+draft: true
+tags: ["Ontologi", "Vetenskap", "Podcast", "Astronomi", "Kurser"]
+---
+
+# Föreläsningar om astrobiologi
+
+"Astronomy 141" är en grundläggande föreläsningsserie om astrobiologi och tillhörande områden, exempelvis jordens geologiska historia och uppkomsten av liv på jorden. "The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences."
+
+Länk: <http://www.astronomy.ohio-state.edu/~pogge/Ast141/>
+
+# Exoplaneter
+
+Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+
+<iframe width="655" height="368" src="https://www.youtube.com/embed/_DnDeBa0KFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</br>
+
+[Länk: NASA om exoplaneter](https://exoplanets.nasa.gov/)
+
+# Utvikning om Fermiparadoxen
+
+"Fermiparadoxen" kan vara allmänbildande att känna till i detta sammanhang. Den utgår från ett tankeexperiment och en "konservativ" överslagsräkning som kommer fram till att galaxen borde vara befolkad av rymdfarande civilisationer redan för länge sedan. Den så kallade paradoxen är då varför vi inte sett till dem. 
+
+På bloggen "waitbutwhy" finns en [beskrivning av Fermiparadoxen ](https://waitbutwhy.com/2014/05/fermi-paradox.html).
+
+En kritik mot resonemanget är att parametrarna i överslagsräkningen är godtyckliga eftersom vi bara har ett exempel (vårt eget) att utgå ifrån, samt att argumentationen inte är en paradox om det analyseras med modal logik.
+
+![Resonemang om evolution på andra planeter](/media/fermiparadox_timeline.png) En del av resonemanget kring fermiparadoxen är att liv på andra planeter med stor sannolikhet har genomgått flera miljarder år av evolution utöver det som skett på jorden.
+
+<!-- En delförklaring kan vara att intelligent liv är mycket ovanligt. Man kan exempelvis notera att dinosaurierna existerade i 170 Ma utan att utveckla intelligens (det tog däggdjuren 230 Ma, det tog 3.4 miljarder år på jorden) -->

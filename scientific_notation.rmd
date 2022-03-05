@@ -1,0 +1,26 @@
+---
+title: "Vetenskaplig notation"
+author: "eriknilsson"
+date: 2018-02-19
+categories: ["Artikel"]
+tags: ["Vetenskap", "Studentprojekt"]
+---
+
+# Att skriva stora och små tal
+
+För att på ett koncist sätt skriva tal som är väldigt stora eller väldigt små används [vetenskaplig notation](https://en.wikipedia.org/wiki/Scientific_notation). Tal skrivs då med tipopotenser, exempelvis två miljoner = 2x10^6.
+
+# Perspektiv: Powers of Ten
+
+<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+
+# <font color="blue">Mantissan</font>: Skala respektive precision.
+
+Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som <font color="blue">1.25</font>x10^3 där delen <font color="blue">1.25</font> (mantissan eller signifikanten) motsvarar då talets precision, emedan 10³ (exponenten, eller eng "power term") beskriver talets skala.
+
+Om vi till exempel är intresserade av att beskriva avståndet mellan solen och jorden (149 600 000 kilometer) är det oftast inte meningsfullt (eller ens möjligt eftersom det varierar) att ange talet med stor precision. Vi kan då exempelvis välja att ange sträckan med precisionen 150 och skalan x10⁶, dvs <font color="blue">150</font>x10⁶ kilometer.
+
+
+

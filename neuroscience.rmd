@@ -1,0 +1,24 @@
+---
+title: "Neurovetenskap"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Artikel"]
+description: [En samling av olika artiklar och andra resurser om ämnet]
+tags: ["Forskning", "Psykiatri"]
+draft: true
+
+---
+
+# Neurogenes
+
+[En artikel i Nature](https://www.nature.com/articles/d41586-018-02629-3) där neurogenes i vuxenlivet ifrågasätts.
+
+# Se även
+
+[Inlägg om Brain Waves](/post/brainwaves)
+
+[En artikel i nature](https://www.nature.com/articles/d41586-018-02391-6) om "hjärnvågor" och deras eventuella betydelse.
+
+[Artikel](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4892319/) av Marzbani om neurofeedback.
+
+[British neuroscience organization](https://www.bna.org.uk/mediacentre/events/2018-10/)

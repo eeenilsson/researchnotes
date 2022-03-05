@@ -1,0 +1,18 @@
+---
+title: "Sömn"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Artikel"]
+description: [En samling av olika artiklar och andra resurser om ämnet]
+tags: ["Forskning", "Psykiatri"]
+draft: true
+
+---
+
+[Artikel i Aeon om kroppsklockans betydelse](https://aeon.co/essays/soon-we-will-see-chrono-attached-to-every-form-of-medicine)
+
+[Nobelpriset 2017 till forskare som studerat circadian rythms](https://www.nature.com/collections/qblmqqfswz)
+
+[Chronotherapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5148811/)
+
+[Artikel i Aeon, bla om skillnader i dröminnehåll i olika åldrar](https://aeon.co/amp/ideas/our-dreams-have-many-purposes-changing-across-the-lifespan?__twitter_impression=true)

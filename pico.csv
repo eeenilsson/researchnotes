@@ -1,0 +1,5 @@
+Letter,Explanation,Example
+P,"Patient, Population, or Problem",How would I describe a group of patients similar to mine?
+I,"Intervention, Prognostic Factor, or Exposure","Which main intervention, prognostic factor, or exposure am I considering?"
+C,Comparison or Intervention (if appropriate),What is the main alternative to compare with the intervention?
+O,Outcome you would like to measure or achieve,"What can I hope to accomplish, measure, improve, or affect?"

@@ -1,0 +1,29 @@
+---
+title: "Psykiatribloggar"
+author: "Erik Nilsson"
+date: 2018-12-16T21:13:14-05:00
+categories: ["Resurser"]
+description: [Länkar till psykiatribloggar.]
+tags: ["Nöje", "Psykiatri"]
+toc: true
+
+---
+
+# Bloggar
+
+[Carlat Psychiatry Blog](http://carlatpsychiatry.blogspot.se/) är ganska inaktiv, men det kan finnas en del äldre material samt länkar av intresse?
+
+[Mind Hacks](https://mindhacks.com/author/tomstafford/) skriver om forskningsprocessen med mera.
+
+[Neurosceptic](http://blogs.discovermagazine.com/neuroskeptic/#.WovaSeBryR1)
+
+[Shrink Rap](http://psychiatrist-blog.blogspot.se/) är en blogg av och för psykiatriker.
+
+[Real Psychiatry](http://real-psychiatry.blogspot.se/) och [tekniska noter](http://gdpsychtech.blogspot.se/?view=classic) om psykiatrisk behandling från samma författare.
+
+[1 Boring Old Man](http://1boringoldman.com/) är inaktiv (författaren avliden).
+
+[Amazing World of Psychiatry](https://theamazingworldofpsychiatry.wordpress.com/) verkar innehålla en del intressant om psykiatrihistoria, antropologi och psykiatrisk forskning. _The Amazing World of Psychiatry blog is a celebration of psychiatry and the benefits it brings to people and society._
+
+[Hyperbole and a Half](http://hyperboleandahalf.blogspot.com/), en serie-blogg om självupplevd depression.
+

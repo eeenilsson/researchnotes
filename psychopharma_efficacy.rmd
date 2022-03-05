@@ -1,0 +1,62 @@
+---
+title: "Antidepressiva"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Resurser"]
+description: [Psykofarmakas effektivitet har diskuterats och ifrågasatts.]
+tags: ["Psykiatri"]
+
+---
+
+# Riktlinjer
+
+&#x1F517; [Canadian network for mood and anxiety treatments (CANMAT)](http://canmat.org/)
+
+&#x1F517; [Svenska psykiatriska föreningen (SPF), Nationella riktlinjer för vård vid depression och ångestsyndrom](http://www.svenskpsykiatri.se/dokument/remissvar/nationella-riktlinjer-for-vard-vid-depression-och-angestsyndrom/)
+
+# Stor metaanalys om effekt av antidepressiva
+
+I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva. 
+[Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32802-7/fulltext) (Cipriani et al, Lancet 2018). Författarna skriver:
+
+> We found that all antidepressants included in the meta-analysis were more efficacious than placebo in adults with major depressive disorder and the summary effect sizes were mostly modest.
+
+> Agomelatine, amitriptyline, escitalopram, mirtazapine, paroxetine, venlafaxine, and vortioxetine were more effective than [some] other antidepressants (ORs ranging between 1·19 and 1·96) [...].
+
+> In terms of acceptability, agomelatine, citalopram, escitalopram, fluoxetine, sertraline, and vortioxetine were more tolerable than [some] other antidepressants (ORs ranging between 0·43 and 0·77).
+
+> [...] escitalopram, mirtazapine, paroxetine, agomelatine, and sertraline had a relatively higher response and lower dropout rate than the other antidepressants.
+
+[Nedan stämmer ej riktigt m författarnas slutsats?! Läs igen.]
+
+Av detta framstår det som att agomelatine (Valdoxan&reg;), escitalopram och vortioxetine (Brintellix&reg;) var både mer effektiva än _vissa andra_ antidepressiva och mer tolerabla än _vissa andra_ antidepressiva. Man kan dock notera att ingen av dessa var statistiskt bättre än exempelvis sertralin även om agomegalin var mer tolerabelt än sertralin. En slutsats kan vara att escitalopram är ett rimligt förstahandsval. Clomipramine och trazodone förefaller ligga dåligt till i både effektivitet och tolerabilitet, men konfidensintervallen är stora så några säkra slutsatser om skillnader mellan antidepressiva kan inte dras.
+
+# Utsättningsbesvär
+
+&#x1F517; [Antidepressant withdrawal: reviewing the paper behind the headlines](https://www.nationalelfservice.net/treatment/antidepressants/antidepressant-withdrawal-reviewing-the-paper-behind-the-headlines/)
+
+Kritik av en studie om utsättningsbesvär.
+
+<!-- [Not: I läkemedelskomittens rekommendatoiner tas inte upp att fluoxetin troligen är det enda effektiva preparatet för barn & unga?] -->
+
+
+<!-- # Reviderade resultat från kliniska prövningar -->
+
+<!-- [BMJ Editorial: Liberating the data from clinical trials](http://www.bmj.com/content/351/bmj.h4601) -->
+
+<!-- ### Prövning N -->
+
+<!-- _Ursprungligt resultat:_ -->
+
+<!-- _Reviderat resultat_ -->
+
+<!-- [Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence](http://www.bmj.com/content/351/bmj.h4320) -->
+
+
+<!-- # Övrigt -->
+
+<!-- [All Trials Registered, All Results Reported](http://www.alltrials.net/) är ett initiativ från Ben Goldacre, BMJ, Centre for Evidence-based Medicine, Cochrane Collaboration, James Lind Initiative, PLOS and Sense about Science and is being led in the US by Sense About Science USA, Dartmouth’s Geisel School of Medicine and the Dartmouth Institute for Health Policy & Clinical Practice. -->
+
+<!-- <http://firmfound.org/> -->
+
+<!-- [Lown Institute](https://lowninstitute.org/) -->

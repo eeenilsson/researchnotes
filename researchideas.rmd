@@ -1,0 +1,25 @@
+---
+title: "Forskningsuppslag"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Resurser"]
+description: [Diverse.]
+tags: ["Forskning"]
+draft: true
+toc: true
+
+---
+
+# Datakällor
+
+### [Svensk nationell datatjänst](https://snd.gu.se/sv)
+
+_Svensk nationell datatjänst är en nationell forskningsinfrastruktur som från och med 1 januari 2018 leds av ett konsortium bestående av Göteborgs universitet, Lunds universitet, Umeå universitet, Uppsala universitet, Sveriges lantbruksuniversitet, Stockholms universitet och Karolinska Institutet med Göteborgs universitet som värduniversitet. SND:s verksamhet finansieras i huvudsak av Vetenskapsrådet och av lärosätena i konsortiet. Till konsortiet är knutet ett nätverk som består av ytterligare 20 lärosäten._
+
+### Patientregistret
+
+_Om uppgifter har beställts från andra myndigheter, till exempel SCB, kan en personnummernyckel skickas mellan myndigheterna så att forskaren kan få uppgifter med samma löpnummerserie för båda materialen. Socialstyrelsen kan spara denna nyckelfil för att till exempel möjliggöra uppdateringar med kommande årgångar i longitudinella studier._
+
+## Arbete och psykisk ohälsa
+
+[QPSNordic - Frågeformulär om psykologiska och sociala faktorer i arbetslivet utprovat i Danmark, Finland, Norge och Sverige](https://snd.gu.se/sv/catalogue/study/snd0837)

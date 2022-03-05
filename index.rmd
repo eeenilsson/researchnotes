@@ -1,0 +1,98 @@
+---
+title: Forskningsnoter
+bibliography: [../bibliography/bibliography.bib,../dropbox/research/library/bibliography-recent.bib]
+csl: ../bibliography/oxford-scimed.csl
+---
+
+<!-- halftime: -->
+<!-- geometry: "left=2.3cm, right=2.3cm, top=2.3cm, bottom=2.3cm" -->
+<!-- classoption: oneside -->
+
+
+<!-- Change to this for thesis: -->
+<!-- geometry: "left=4cm, right=3cm, top=2.5cm, bottom=2.5cm" -->
+
+
+<!-- Also works here: -->
+<!-- header-includes: -->
+<!--    - \usepackage{pdfpages} -->
+
+<!-- Other options: -->
+<!-- papersize: A4 -->
+<!-- fontsize: 12pt -->
+<!-- linestretch: 1.5 -->
+<!-- fontfamily -->
+<!-- See: http://pandoc.org/MANUAL.html -->
+<!-- See latex font catalgue: http://www.tug.dk/FontCatalogue/ -->
+
+```{r global-options, include=FALSE}
+
+## set global options for knitr
+knitr::opts_chunk$set(echo=FALSE,
+                      warning=FALSE,
+                      message=FALSE,
+                      out.width = "800px")
+
+options(knitr.graphics.auto_pdf = TRUE) ## if latex .pdf files will replace .png
+## options(knitr.table.format = "markdown") # for kable tables
+options(knitr.kable.NA = '')
+
+## packages
+pacman::p_load(tidyverse,
+               ggplot2,
+               kableExtra,
+               rsvg,
+               svglite,
+               data.table)
+
+## detach(package:plyr) ## to avoid conflict w dplyr
+
+## themes
+source('../functions/theme_polar.r')
+
+## Functions
+makestack <- function(x){
+    paste("\\makecell[lt]{", gsub(",", " \\\\\\\\ ", x), "}") ## replace commas with four backslashes
+}
+
+source('../functions/fix.names.R')
+source('../functions/query_label.r')
+source('../functions/labelThis.r')
+source('../functions/query.abbrev.r')
+## source('../functions/make_rows.r')
+source('../functions/make_namedlist.r')
+source('../functions/fix_pval.r')
+
+## varnames
+source('varnames.r')
+source('abbreviations.r')
+
+
+```
+
+
+```{r number-sections, results='asis'}
+
+## reads out the toc_depth YAML option and then prints some lines of CSS to simply hide all elements of class .header-section-number that belong to a heading greater than toc_depth.
+## https://stackoverflow.com/questions/47124299/rmarkdown-section-numbering-depth-for-html-documents
+
+## Not working
+
+## numbering_depth <- 3
+## sel <- paste0("h",(numbering_depth+1):10, collapse = " > span, ")
+## cat(paste0("<style>",
+##            sel, 
+##            " > .header-section-number { display: none; } </style>"))
+
+
+```
+
+
+```{r load-data } 
+
+## Data for plotting
+## diagnoses_comparison <- readRDS("diagnosis_comparison.rds")
+## igfdata <- readRDS("igfdata.rds")
+
+``` 
+ 

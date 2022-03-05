@@ -1,0 +1,53 @@
+bookdown::pdf_book:
+  includes:
+    before_body: frontpage.tex
+    after_body: lastpage.tex
+    in_header: preamble.tex
+  pandoc_args: --top-level-division=chapter
+  toc: no
+  toc_depth: 3
+  toc_unnumbered: no
+  toc_appendix: yes
+ioslides_presentation:
+    fig_width: 7
+    fig_height: 6
+    css: custom.css
+beamer_presentation:
+    keep_tex: true
+    fig_width: 7
+    fig_height: 6
+    fig_caption: false
+    includes:
+      before_body:
+      after_body:
+      in_header: beamer_header.tex
+    citation_package: biblatex
+bookdown::gitbook:
+  config:
+    toc:
+      collapse: subsection
+      scroll_highlight: yes
+      before: null
+      after: null
+    toc_depth: 3
+    toolbar:
+      position: fixed
+    edit : null
+    download: null
+    search: yes
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing:
+      facebook: yes
+      github: no
+      twitter: yes
+      linkedin: no
+      weibo: no
+      instapaper: no
+      vk: no
+      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    info: yes
+  keep_tex: true
+

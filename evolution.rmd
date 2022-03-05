@@ -1,0 +1,54 @@
+---
+title: "Evolution"
+author: "eriknilsson"
+date: 2018-06-01 
+lastmod: 2010-02-19
+categories: ["Artikel"]
+tags: ["Vetenskap"]
+draft: true
+slug: evolution
+---
+
+![Circle of Life](/media/lifecircle.jpg)
+
+Figur: Circle of Life. It is based on analysis of small sub-unit rRNA sequences sampled from about 3,000 species from throughout the Tree of Life. From _Life: The Science of Biology, 9th ed., by D. Sadava, D. M. Hillis, H. C. Heller, and M. Berenbaum (Sinauer Associates and W. H. Freeman, 2011)._
+
+# Evolutionens hastighet
+
+- Se artikeln om tid
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkYD3wEuKbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+# Snabb anpassning
+
+- Snabb evolution vid högt selektionstryck.
+
+- Epigenetik.
+
+# Ideer och sociala seder som evolutionära fenomen
+
+- Ideers evolution. Religiositet. Konsekvenser för etik.
+
+- Sociala fenomen som gagnar generna.
+
+[Podcast med Sam Harris och Bret Weinstein](https://samharris.org/podcasts/109-biology-culture/)
+
+- Bret Weinstein: evolutionary meaning of large-scale patterns in human history
+
+![Evolution of Ideas](/media/idea_evolution.png)
+
+# Tips
+
+[Tree of Life](https://tree.opentreeoflife.org/opentree/argus/opentree9.1@ott93302)
+
+[Discover Life](http://www.discoverlife.org/20/m/?tree=Life&res=640&flags=all:&b=WHF_LIFE)
+
+[Circle of Life med tidsperioder inlagda](http://www.bbc.co.uk/nature/life)
+
+[Enklare filmer om evolution](http://www.sumanasinc.com/webcontent/animations/content/evolution/evolution.html)
+
+[Evolution under olika tidsperioder, animering](http://www.pbs.org/wgbh/evolution/change/deeptime/index.html)
+
+[Samling länkar](http://www.bio-alive.com/animations/evolution.htm)
+
+[Spel: Quantum Moves](https://www.scienceathome.org/games/quantum-moves/)

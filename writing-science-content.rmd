@@ -1,0 +1,132 @@
+---
+title: "Guide till innehåll i uppsatsens delar"
+author: "eriknilsson"
+date: 2020-03-30
+categories: ["Artikel"]
+output:
+  blogdown::html_page:
+    toc: true
+tags: ["Studentprojekt", "vetenskap"]
+---
+
+För läkarstudenter som skriver C eller D-uppsats.
+
+Se även inlägget ["att skriva uppsats"](/tags/vetenskap).
+
+I en uppsats kan bakgrundsdelen vara mer omfattande än vad den är i en vetenskaplig artikel. Därför kan det vara bra att ha två rubriker, en "background" som är mer omfattande och en "introduction" där man skriver endast det som skulle ha stått i en vetenskaplig artikel. Denna indelning används här.
+
+# Background
+
+Omfattning: En eller flera sidor.
+
+Särskilt på termin 6 kan denna del vara ganska omfattande. Passa på att läsa och skriva om sådant som intresserar dig. Det behöver inte bara vara sådant som direkt underbygger den vetanskapliga frågeställningen, utan kan handla mer allmänt om något eller några av de områden som berörs.
+
+Om exempelvis uppsatsen handlar om antidepressiva och hyponatremi kan du skriva allmänt om tillstånd som behandlas med antidepressiva (ångestsyndrom, depression), om olika antidepressiva och om hyponatremi i allmänhet. Skriv mer om det du är intresserad av och mindre om övrigt.
+
+Sådant som kan vara intressant att ta upp är tex epidemiologin för olika tillstånd och läkemedel (prevalens/incidens, jämför olika länder, åldrar, kön), tillstånd och mekanismer som kan ligga bakom hyponatremi, komplikationer, klinisk handläggning och behandlingsriktlinjer.
+
+Det kan även vara lämpligt att nämna några av de förväxlingsfaktorer som påverkar risken för hyponatremi (tex hjärtsvikt, ålder, kön).
+
+Använd rubriker och underrubriker ifall du har mycket text i ett avsnitt.
+
+# Introduction
+
+Omfattning: 3-5 stycken.
+
+Här ges en mer koncis introduktion som syftar till att underbygga frågeställningen, även om den första meningen kan vara mer allmänt hållen.
+
+- State the problem, starting with a broad overview. 
+- Strive to formulate the problem in a hypothesis (yes/no) or question.
+- Focus readers attentions on the aims of your investigation.
+- Motivate this choice of aims.
+- Describe the research approach briefly, eg "we tested this hypothesis using knock-out mice".
+- Summarize the conclusion (optional), "our findings suggest..."
+- Three paragraphs may be appropriate.
+- Perhaps: Present with enthusiasm [This may not be appreciated by everyone] (ok to use "dramaticallly", "unexpectedly", "interestingly")
+
+# Material & methods
+
+- Establish your scientific credibility: Appropriate methods.
+- Allow others to reproduce study.
+- Method: How was the evidence obtained.
+- If anything novel in methodology (small change in procedure?), emphasize this.
+- Se icme.org & consort-statement.org
+
+## Outline
+
+1. Substances used: Drugs, reagents, antibodies, chemicals)
+2. Subjects studied: PAtients, animals, cells
+3. Sample collection procedures: Blood, biopsies, cells, proteins, DNA.
+4. Analyses: Activity, quantity, localization, structure.
+5. Statistical analyses.
+
+# Results
+
+- Present the evidence.
+- Validate the evidence (statistics)
+- Show results that relate to the formal argument, avoid excess/irrelevant information.
+- Show results only once. Values in tables & figures should #not# be repeated in the text. Exception: A very important finding.
+- Describe a figure in more general terms in the text (emphasize result).
+
+> Beskriv resultaten i ord och hänvisa till tabeller och figurer. Peka på intressanta resultat, särskilt sådana som du sedan belyser i diskussionsdelen. Upprepa dock inte siffror från tabeller och figurer. Alla tabeller och figurer bör hänvisas till från texten (**Table 1**).
+
+```{r table-one-example, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('../media/table1_example.csv')
+kable(dta, caption = "Baseline characteristics")
+
+```
+
+## Outline
+
+1. Prepare figures and tables: What data are important to convince the reader of my conclusion.
+2. Organize these tables in an appropriate order.
+
+# Discussion
+
+- Discuss implications, Evaluate supportive and conflicting evidence, Draw conclusions.
+- Common problems: Lack of clear line of thoght. Unbalanced treatments of others results. Too much or too little speculation. Boringness.
+
+## Outline
+
+1. Begin with summmarizing the major novel findings in one paragraph. "The major, novel findings in the present investigation are the following..."
+2. Discuss possible underlying mechanisms for the observed assocaiations.
+3. Comparison against what others have reported. "In line with what NN reported...". If discrepancies, compare methods used, even small details. Or "at present, these discrepancies cannot be explained".
+4. Consider possible limitations and strengths. Risk for bias? Small N? Ambigous protocol? Ioannidis, Journal of clinical epidmiology, 2007.
+5. Draw a conclusion - convince!
+6. Discuss possible consequences of your observations (in research or clinical practice).
+
+> Tips: En viss studiedesign är förknippad med vissa typer av problem och begränsningar. Kolla upp vanliga felkällor för den studiedesign du använder (tex kohortstudie). Benämn dessa och beskriv vad (om något) som gjordes i din studie för att minimera effekterna av sådan bias. Deta görs vanligen i avsnittet om "limitations". Exempelvis finns i observationsstudier ofta "confounding by indication", och "residual confounding from measured and unmeasured factors". Andra typer av bias som kan benämnas är tex "selection bias" och "detection bias". Diskutera även extern validitet.
+
+> Tips: När du jämför med tidigare forskning kan du beskriva skillnader och likheter mellan din egen och annan studie exempelvis avseende datakällor (tex register vs journaler), studiepopulationens storlek och sammansättning (skillnader i ålder, kön, sjukdomar), mätmetod för utfallsvariabler (diagnoser vs laboratorieanlyser), hantering av bortfall och bias, uppföljningstidens längd. Du kan spekulera om eventuella olikheter i resultat kan bero på dessa skillnader.
+
+
+# Abstract
+
+Kan med fördel skrivas sist. Det är vanligt att abstract innehåller en sammanfattning av resultaten inklusive en del siffror, eftersom många läsare bara har tillgång till abstractet.
+
+- Background
+  + Kontext.
+  + Varför behövs denna forskning: Vad vi har, vad vi vill ha.
+  + Uppgift/ vad vi gjorde
+  + Syftet med detta arbete
+- Methods
+  + Studiedesign. 
+  + Definition av exposure och outcome.
+- Results
+  + Hur många inkluderades? 
+  + Huvudsakliga resultat inklusive siffror.
+- Conclusion
+  + Summering av resultatet i en mening. 
+  + Perspektiv/potentiell nytta/ klinisk relevans.
+
+[An effective abstract](https://www.nature.com/scitable/content/an-effective-abstract-14194316)
+
+# Litteratursök
+
+```{r table-pico, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('../media/pico.csv')
+kable(dta, caption = "PICO")
+
+```

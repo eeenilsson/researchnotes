@@ -1,0 +1,25 @@
+---
+title: "Brain Waves"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Artikel"]
+description: [Diverse.]
+tags: ["Forskning", "Psykiatri"]
+draft: true
+
+---
+
+# Brain Waves
+
+[En artikel i nature](https://www.nature.com/articles/d41586-018-02391-6) om "hjärnvågor" och deras eventuella betydelse. Nämner bla forskning av Li-Huei Tsai som använt ljus för att påverka amylodia plack, och funnit viss påverkan på [mikroglia](https://www.ncbi.nlm.nih.gov/pubmed/27929004?dopt=Abstract) av behandlingen.
+
+> The oscillations also provide a potential mechanism for how the brain creates a coherent experience from the chaotic symphony of stimuli hitting the senses at any one time, a puzzle known as the ‘binding problem’. By synchronizing the firing rates of neurons responding to the same event, brainwaves might ensure that the all of the relevant information relating to one object arrives at the correct area of the brain at exactly the right time.
+
+> There’s pretty good evidence that by changing neural-circuit activity we can get improvements in Parkinson’s, chronic pain, obsessive–compulsive disorder and depression
+
+> One of the simplest methods that scientists have found is neurofeedback, which has shown some success in treating a range of conditions, including anxiety, depression and attention-deficit hyperactivity disorder
+
+# Resurser
+
+[Artikel](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4892319/) av Marzbani om neurofeedback.
+

@@ -1,0 +1,17 @@
+---
+title: "Kommunikation"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Resurser"]
+description: [Om att kommunicera.]
+tags: ["Psykiatri"]
+toc: true
+draft: true
+
+---
+
+# Podcast med Alan Alda
+
+Alan Alda, komiker, pratar om kommunikation på ett skarpsinnigt vis.
+
+[Länk till podcas ur serien "Hidden Brain"](https://www.npr.org/2018/01/22/577433687/alan-alda-wants-us-to-have-better-conversations)

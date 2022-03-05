@@ -1,0 +1,26 @@
+---
+title: "Orsakssamband"
+author: "eriknilsson"
+date: 2018-03-12
+categories: ["Artikel"]
+tags: ["Vetenskap"]
+draft: true
+---
+
+Några verktyg för slutledningar om orsakssamband inom medicinsk forskning presenteras nedan.
+
+# Counterfactuals och Potential outcomes
+
+Potential outcomes är exempelvis två möjliga behandlinga vid randomisering. Counterfactual är den (eller de) behandling(-ar) individen _inte_ fick efter randomisering. Frågan vid kausalitet är då hur individen _skulle ha svarat_ på den kontrafaktiska behandlingen (i detta exempel).
+
+# Riktade acykliska grafer
+
+Riktade acykliska grafer (eng Directed Acyclic Graphs, DAGs) kan användas för att resonera kring orsak och verkan, samt för att reducera antalet förväxlingsfaktorer som behöver tas med i en regressionmodell.
+
+![Figur: Topologisk rangordning](/media/topological_ordering.png)
+
+[Från wikipedia:](https://en.wikipedia.org/wiki/Directed_acyclic_graph) _A topological ordering of a directed acyclic graph: every edge goes from earlier in the ordering (upper left) to later in the ordering (lower right). A directed graph is acyclic if and only if it has a topological ordering.)_
+
+# Kausalitet inom psykologin
+
+Upplevelse av kausalitet - varför?

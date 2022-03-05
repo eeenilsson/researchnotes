@@ -1,0 +1,18 @@
+Animal,Djur,Weight,Heart Rate,Longevity,Product,Lifetime Heartbeats,select,verticaloffset,note
+Creature,,(grams),(/minute),(years) , ,(billions),,,
+Human,Människa,90000,60,70,4200,2.21,1,1,
+Cat,Katt,2000,150,15,2250,1.18,1,0,
+Small dog,Liten hund,2000,100,10,1000,0.53,0,0,
+Medium dog,Medelstor hund,5000,90,15,1350,0.71,0,0,
+Large dog,Stor hund,8000,75,17,1275,0.67,1,0,
+Hamster,Hamster,60,450,3,1350,0.71,1,0,
+Chicken,Kyckling,1500,275,15,4125,2.17,1,0,
+Monkey,Apa,5000,190,15,2850,1.50,0,0,
+Horse,Häst,1200000,44,40,1760,0.93,1,0,
+Cow,Ko,800000,65,22,1430,0.75,0,0,
+Pig,Gris,150000,70,25,1750,0.92,1,0,
+Rabbit,Kanin,1000,205,9,1845,0.97,0,0,
+Elephant,Elefant,5000000,30,70,2100,1.1,1,-1,
+Giraffe,Giraff,900000,65,20,1300,0.68,1,0,
+Large whale,Stor val,120000000,20,80,1600,0.84,1,0,
+source,,,,,,,,,San Jose University: http://www.sjsu.edu/faculty/watkins/longevity.htm

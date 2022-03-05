@@ -1,0 +1,25 @@
+---
+title: "Tvångssyndrom"
+author: "eriknilsson"
+date: 2020-12-15
+categories: ["Artikel"]
+tags: ["Psykiatri"]
+---
+
+
+
+## Behandlingsmanualer
+
+Bok, Fri från tvång: Steg för steg med kognitiv beteendeterapi, av Mia Asplund, Elin-Love Rosengren. En behandlingsmanual som är utformad som ett självhjälpsprogram.
+
+## Resurser
+
+Internetmedicin, "Tvångssyndrom", &#x1F517; [länk](https://www.internetmedicin.se/page.aspx?id=804)
+
+OCD-förbundet, "Självhjälp", [&#x1F517;][https://ocdforbundet.se/sjalvhjalp]
+
+## Övrigt
+
+Invisibilia, "Deep Brain Stimulation: Remote Control Brain", &#x1F517; [länk till podcasten](https://www.npr.org/2019/03/29/707908959/deep-brain-stimulation-remote-control-brain?t=1555948958600).
+
+_Avsnittet berättar om Megan, som fått behandling med djup hjärnstimulering mot sitt tvångssyndrom._

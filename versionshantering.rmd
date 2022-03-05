@@ -1,0 +1,23 @@
+---
+title: "Versionshantering och dropbox"
+author: "eriknilsson"
+date: 2019-05-12
+categories: ["Artikel"]
+tags: ["Studentprojekt"]
+---
+
+För läkarstudenter som skriver C eller D-uppsats.
+
+Se även inlägget ["att skriva uppsats"](/tags/vetenskap).
+
+Använd "spåra ändringar" och ha med datum i filnamnet. Bra att lära sig för framtida forskningssamarbeten.
+
+# Gör såhär
+
+1. Du skickar ditt första utkast till handledaren. Aktivera gärna "spåra ändringar" i dokumentet innan du skickar in.
+2. Spara på dropbox och ange filnamn med initialer (här "AG") och datum, tex: _antidepressiva_duppsats_AG190101_. Skicka ett mail och meddela handledaren att en ny version finns på dropbox.
+2. Handledaren kommenterar och ger ändringsförslag med "spåra ändringar" aktiverat (ändringar blir färgmarkerade i dokumentet), handledaren sparar med nytt filnamn på dropbox (tex _antidepressiva_duppsats_EN190116_).
+3. Du tar ställning till förslagen (du kan med fördel använda "granska ändringar" i word för att gå igenom alla förslag). Spara sedan direkt en ren version med nytt filnamn/datum (tex _antidepressiva_duppsats_AG190120_). I denna version är det inga ändringar som är färgmarkerade eftersom alla accepterats eller förkastats.
+4. Gör dina efterföljande ändringar och tillägg med "spåra ändringar" aktiverat så att handledaren ser vad som är nytt.
+
+Kom ihåg att du själv tar ansvar för att ändringar är korrekta och att innehållet i referenser stämmer med det som skrivs. 

@@ -1,0 +1,78 @@
+---
+title: "Psykiatriresurser"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Resurser"]
+description: [Länkar till psykiatriresurser.]
+tags: ["Podcast", "Nöje", "Psykiatri", "Kurser"]
+draft: true
+
+---
+
+# Bloggar
+
+[Carlat Psychiatry Blog](http://carlatpsychiatry.blogspot.se/) är ganska inaktiv, men det kan finnas en del äldre material samt länkar av intresse?
+
+[Mind Hacks](https://mindhacks.com/author/tomstafford/) skriver om forskningsprocessen med mera.
+
+[Neurosceptic](http://blogs.discovermagazine.com/neuroskeptic/#.WovaSeBryR1)
+
+
+[Shrink Rap](http://psychiatrist-blog.blogspot.se/) är en blogg av och för psykiatriker.
+
+[Real Psychiatry](http://real-psychiatry.blogspot.se/) och [tekniska noter](http://gdpsychtech.blogspot.se/?view=classic) om psykiatrisk behandling från samma författare.
+
+[1 Boring Old Man](http://1boringoldman.com/) är inaktiv (författaren avliden).
+
+[Amazing World of Psychiatry](https://theamazingworldofpsychiatry.wordpress.com/) verkar innehålla en del intressant om psykiatrihistoria, antropologi och psykiatrisk forskning. _The Amazing World of Psychiatry blog is a celebration of psychiatry and the benefits it brings to people and society._
+
+[Hyperbole and a Half](http://hyperboleandahalf.blogspot.com/), en serie-blogg om självupplevd depression.
+
+# Undervisning
+
+**Psychopharmacology Institute** publicerar Filmer och illustrerade artiklar. För en del av materialet krävs prenumeration. Exempelvis finns inslag om augmentation, inflammatoriska biomarkörer med mera. 
+
+>The Psychopharmacology Institute is an educational platform owned by IMEA – International Medical Education Academy LTD, a digital company based in the UK serving the global medical community. [...] Our concept of essential aspects includes: clinical features of psychiatric disorders, pharmacology, effectiveness and adverse effects of psychotropic medications.
+
+&#x1F517; [Clinical Psychopharmacology Education For Prescribers](https://psychopharmacologyinstitute.com/). 
+
+> Dr. Flavio Guzman is the editor of the Psychopharmacology Institute. He is a psychiatrist in private practice in Mendoza, Argentina and an Assistant Professor of Pharmacology at the University of Mendoza. He founded the Psychopharmacology Institute in 2013, with the vision of providing evidence-based education for practicing clinicians free of commercial bias. [Från research gate]
+
+**Providers Clinical Support System**
+
+> PCSS is a program funded by the Substance Abuse and Mental Health Services Administration (SAMHSA) created in response to the opioid overdose epidemic to train primary care providers in the evidence-based prevention and treatment of opioid use disorders (OUD)  and treatment of chronic pain. 
+
+&#x1F517; [PCSS](https://pcssnow.org/)
+
+# Kurser
+
+
+# Kongresser
+
+ECNP
+
+World Psychiatric Association
+
+
+# Att undersöka
+
+[British neuroscience organization](https://www.bna.org.uk/mediacentre/events/2018-10/)
+
+
+# Övrigt/oklar kvalitet
+
+[Workflows for reproducible research on bioRxiv](https://www.biorxiv.org/content/early/2016/08/11/056473)
+
+[Varför inte excel: How not to excel at economics](https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646)
+
+[Kottke Blog](https://kottke.org/)
+
+[NeuroElectro](https://neuroelectro.org/), om neurofysiologi.
+
+[Lista över psykiatrisidor](http://www.priory.com/psychiatry/Best_Psychiatry_Sites.htm)
+
+[Dream Journal](http://www.dreamjournal.net/) ...där folk beskriver sina drömmar.
+
+[Somatosphere](somatosphere.net): _Science, Medicine, and Anthropology_
+
+[Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)

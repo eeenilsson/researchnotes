@@ -1,0 +1,23 @@
+---
+title: "Medvetande"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Artikel"]
+description: [Diverse.]
+tags: ["Forskning", "Psykiatri"]
+draft: true
+
+---
+
+# Det verkliga problemet
+
+I en [artikel i tidskriften Aeon](https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one) diskuterar forskaren Anil Seth neurofenomenologi, med utgångspunkt i David Chalmers idéer om "The easy problem" (hur hjärnan ger upphov till beteende, kognition, perception mm) och "The hard problem" (varför detta ger upphov till medvetande). 
+
+Skillnader mellan sömn och medvetandeförlust tas upp, liksom teorier om vilka mekanismer i hjärnan ligger till grund för medvetandet. Författaren konstaterar att medvetande tycks vara beroende av hur olika delar av hjärnan kommunicerar med varandra samt en slags mätare för medvetande kan vara komplexitetsgraden (vilken kan mätas med kompressionsalgoritmer) i EEG efter trankraniell magnetisk stimulering. Seths forskning antyder även att alfavågor (10 Hz) på EEG kan mostvara faser då förutsägelserna distribueras i CNS.
+
+Medvetandet karaktäriseras av att vara integrerat, dvs att olika typer av samtidiga sinnesintryck upplevs som ett enda sinnestillstånd. Exemplevis upplever vi ett föremåls form och färg som som ett enda föremål, snarare än åtskiljda sinnesintryck. Andra fenomen som tas upp är ["binocular rivalry"](http://rstb.royalsocietypublishing.org/content/369/1641/20130211) och ["masking"](www.lscp.net/persons/sidk/publi/Kouider-Dehaene_ProcRoyalSoc_2007.pdf). 
+Ett centralt koncept som framförs är att hjärnan är en "prediktiv maskin", dvs våra upplevelser är hjärnans försök att förutsäga vad som händer baserat på olika intryck och inre processer, varav följer att perception är hjärnans hypotes om vad som orsakar de olika intrycken, vilket kan beskrivas som en "kontrollerad hallucination". På denna grund kan man förstå hallucinationer som ett tillstånd då hjärnans inre förutfattade meningar dominerar över yttre sinnesintryck.
+
+&#x1F517; [Länk till artikeln i Aeon](https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one)
+
+&#x1F517; [Rubber hand illusion](https://www.nature.com/articles/35784)

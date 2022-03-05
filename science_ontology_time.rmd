@@ -1,0 +1,36 @@
+---
+title: "Tid"
+author: "eriknilsson"
+date: 2018-02-17
+categories: ["Artikel"]
+tags: ["Ontologi", "Vetenskap"]
+---
+
+Geologisk tid, relativitet, samtidighet, orsak och verkan
+
+# Tidsperspektiv
+
+Tiden som förflutit sedan Big Bang är ungefär 13.8 miljarder (13.8x10^9) år och jorden är ca 4.54 miljarder år gammal. Eukaryoter har funnits i ca 2 miljarder år och människoarter (homininer) i 0.002 miljarder (2x10^6) år.
+
+![Geologisk tid](/media/geologictime.png)
+Från [Wikipedia](https://en.wikipedia.org/wiki/Geologic_time_scale): _This clock representation shows some of the major units of geological time and definitive events of Earth history. The Hadean eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.0 Ga (billion years ago).Other subdivisions reflect the evolution of life; the Archean and Proterozoic are both eons, the Palaeozoic, Mesozoic and Cenozoic are eras of the Phanerozoic eon. The three million year Quaternary period, the time of recognizable humans, is too small to be visible at this scale._
+
+
+# Tidens relativitet
+
+Uppmätt tid för olika observatörer beror på deras hastighet och styrkan på det gravitationsfält de befinner sig i. Exempelvis gå klockor i satelliter långsammare än likadana klockor på jorden (som befinner sig i ett starkare gravitationsfält).
+
+Relativistiska effekter har inga uppenbara konsekvenser för medicinsk forskning, men måste exempelvis tas med i beräkningen för att elektronmikroskop skall fungera.
+
+##  Samtidighet
+
+Om två händelser inträffar på olika platser kan de aldrig sägas vara samtidiga i egentlig bemärkelse, eftersom samtidghet beror på observatörens position och hastighet i förhållande till de två platserna. Detta illustreras i animationen nedan, där de tre händelserna A, B och C inträffar samtidigt - eller inte - beroende på observatörens rörelse genom rumstiden.
+
+<center>
+
+<img alt="File:Relativity of Simultaneity Animation.gif" src="//upload.wikimedia.org/wikipedia/commons/7/78/Relativity_of_Simultaneity_Animation.gif" data-file-width="400" data-file-height="430" width="400" height="430">
+
+</center>
+
+Från [Wikipedia](https://en.wikipedia.org/wiki/Relativity_of_simultaneity): _Animation illustrating relativity of simultaneity. The three events (A, B, C) are simultaneous from the reference frame of an observer moving at v = 0. From the reference frame of an observer moving at v = 0.3c, the events appear to occur in the order C, B, A. From the reference frame of an observer moving at v = -0.5c, the events appear to occur in the order A, B, C. The white line represents a plane of simultaneity being moved from the past of the observer to the future of the observer, highlighting events residing on it. The gray area is the light cone of the observer._
+

@@ -1,0 +1,75 @@
+---
+title: "Psykiatripoddar"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Blänkare", "Resurs"]
+tags: ["Podcast", "Psykiatri", "Nöje"]
+---
+
+# Hidden brain
+
+_Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships._
+
+En populärvetenskaplig podd om Psykologi. Rekommenderas!
+
+&#x1F517; [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
+
+Rekommenderade episoder: I'm Right, You're Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
+
+# A History of Delusions
+
+&#x1F517; [A History of Delusions](https://www.bbc.co.uk/programmes/p06tbbhz)
+
+Intervjuer med personer som upplevt vanföreställningar, i kombination med historiska utvikningar.
+
+Rekommenderade episoder: Long Shadows, Capgras (intressant ffa mot slutet av avsnittet). 
+
+# Psych Essentials
+
+_Psych Essentials is an educational open access podcast dedicated to learning essential topics in psychiatry. Each episode, we review core concepts while providing useful tips for your clinical practice._
+
+Psych essentials är en utbildningsinriktad, underhållande pod i lättsamt dialogformat. Fungerar som introduktion till olika områden inom klinisk psykiatri.
+
+&#x1F517; [Psych Essentials](http://psychessentials.org/)
+
+Rekommenderade episoder: Catatonia (16), Decisional capacity (15), episod 2-9 om psykiatrisk undersökningsteknik, 
+
+# Learn Psych
+
+_The Learn Psych Podcast is an educational podcast about psychiatry, intended for students, trainees, and health care providers. Topics are organized primarily targeted towards an audience of medical students and psychiatry residents._
+
+LearnPsych är något mer djuplodande pod än Psych Essentials, med längre intervjuer med experter från olika områden inom klinisk psykiatri.
+
+![](/media/learnpsych.png)
+
+&#x1F517; [LearnPsych](http://www.learnpsychpodcast.com/)
+
+Rekommenderade episoder: Mental status exam (1-2), Biopsychosocial formulation (008), Drug seeking behaviours (019-020), borderline personality disorder (025).
+
+# PsychEd
+
+_The psychiatry podcast for medical learners, by medical learners._
+
+&#x1F517; [PsychEd](https://www.psychedpodcast.org/)
+
+Rekommenderade episoder: Diagnosis of depression (1), Treatment of depression (2), Diagnosing and treating obsessive-compulsive disorder (8), treatment of schizophrenia (9).
+
+# Oxford psychiatry podcast
+
+_These podcasts provide an introduction to core topics in psychiatry, and to research undertaken in the Oxford University Department of Psychiatry._
+
+Kanske ingen hit, men vissa episoder är intressanta.
+
+&#x1F517; [Oxford psychiatry podcast](https://podcasts.ox.ac.uk/series/psychiatry)
+
+Rekommenderade episoder: Creating the evidence base for prescribing in psychiatry, Psychological mechanisms of antidepressants.
+
+# Diverse
+
+- Science podcast, "Preventing psychosis": <http://www.sciencemag.org/podcast/preventing-psychosis-and-evolution-or-not-written-language>.
+
+- Philosophy Bites, "John Campbell On schizophrenia": <http://philosophybites.com/2013/01/john-campbell-on-schizophrenia.html>
+
+- Philosophy Bites, "Anil Seth on the Real Problem of Consciousness": <http://philosophybites.com/2017/07/anil-seth-on-the-real-problem-of-consciousness.html>
+
+<!-- - Ej provat: [Mad in America](https://www.madinamerica.com/) -->

@@ -1,0 +1,19 @@
+---
+title: "Guide till litteratursök"
+author: "eriknilsson"
+date: 2020-03-30
+categories: ["Artikel"]
+output:
+  blogdown::html_page:
+    toc: true
+tags: ["Studentprojekt", "vetenskap"]
+---
+
+# Litteratursök
+
+```{r table-pico, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('../media/pico.csv')
+kable(dta, caption = "PICO")
+
+```

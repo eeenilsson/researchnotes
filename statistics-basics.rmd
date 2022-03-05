@@ -1,0 +1,75 @@
+---
+title: "Grundläggande statistik för läkarstudenter"
+author: "eriknilsson"
+date: 2018-12-15
+categories: ["Artikel"]
+tags: ["Studentprojekt", "Vetenskap"]
+---
+
+För läkarstudenter som skriver C eller D-uppsats.
+
+Du bör kunna förklara begreppen som är listade under "deskriptiv statistik" och "hypotestestning" nedan.
+
+&#x1F517; [Här kan du slå upp beskrivningar av grundläggande statistiska termer](http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm)
+
+Se även inlägget ["att skriva uppsats"](/tags/vetenskap).
+
+# Deskriptiv statistik
+
+_Läs gärna på om följande begrepp:_
+
+- Medelvärde
+- Standardavvikelse
+- Median
+- Inter quartile range (IQR)
+- Normalfördelning
+- Typer av variabler: Kontinuerlig, kategorisk, nominal, ordinal.
+
+&#x1F517; [Medelvärde och median](https://www.youtube.com/watch?v=JFesFhraX2M)
+
+![](/media/normal-distribution.png)
+
+**Bild:** Normalfördelning. Källa: [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution).
+
+# Hypotestestning
+
+_Läs gärna på om följande begrepp:_
+
+- T-test
+- Chi-2-test
+- P-värde
+- Power
+- Typ I fel
+- Typ II fel
+
+# Studiedesign
+
+Beskrivningar av olika typer av studiedesign:
+
+&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
+
+&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
+
+# Box-and-Whisker Plot
+
+Aka "Boxplot". Kanske något för din uppsats?
+
+![](/media/boxplot.gif)
+
+**Bild:** Boxplot. Källa: [Flowingdata](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/).
+
+&#x1F517; [Om boxplot ](http://amsi.org.au/teacher_modules/Data_investigation_year_10.html#Quartiles_and_boxplots)
+
+&#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+# Övrigt
+
+&#x1F517; [Fallgropar i den vetenskapliga processen](http://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble)
+
+&#x1F517; [Open data](http://www.icsu.org/science-international/accord)
+
+### Programvara för statistik
+
+&#x1F517; [Using excel for statistics](http://www.real-statistics.com/)
+
+&#x1F517; [R](https://www.r-project.org/) rekommenderas om du gillar programmering.

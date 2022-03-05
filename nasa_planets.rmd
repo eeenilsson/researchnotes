@@ -1,0 +1,24 @@
+---
+title: "NASA utforskar planeterna"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Media"]
+draft: true
+tags: ["Podcast", "Astronomi", "Nöje", "Vetenskap", "Tips"]
+---
+
+# Gravity assist
+
+I NASAs [Gravity Assist Podcast](https://www.nasa.gov/gravity-assist) berättas om alla solsystemets himlakroppar, från solen till Kuiperbältet, och de rymdsonder som utforskat dem.
+
+# Cassini
+
+[Rymdsonden vid saturnus](https://saturn.jpl.nasa.gov/) som tagit fantastiska bilder.
+
+![Foto av Saturnus, från nasa.gov](/media/saturn_7626.jpg)
+
+# Juno
+
+[Rymdsonden vid Jupiter](https://www.nasa.gov/mission_pages/juno/main/index.html).
+
+![Jupiter, Io och Europa, från nasa.gov](/media/jupiter_io_europa.png)

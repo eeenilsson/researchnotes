@@ -1,0 +1,28 @@
+---
+title: "Vetenskaplig världsbild: Vår plats i universum"
+author: "eriknilsson"
+date: 2018-02-10
+draft: true
+categories: ["Artikel"]
+tags: ["Ontologi", "Vetenskap"]
+---
+
+# Geologisk tid
+
+# Evolution
+
+## Människans evolution
+
+- Boktips: [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/w/index.php?title=Sapiens:_A_Brief_History_of_Humankind&oldid=752895922)
+
+# Universum
+
+## Astrobiologi
+
+[Astrobiologi](/post/astrobiologi)
+
+# Skala
+
+# Övrigt
+
+Uddenberg, Idéer om Liv.

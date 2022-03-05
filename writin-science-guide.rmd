@@ -1,0 +1,206 @@
+---
+title: "Guide till stil, struktur och innehåll i uppsatsens delar"
+author: "eriknilsson"
+date: 2019-05-12
+categories: ["Artikel"]
+output:
+  blogdown::html_page:
+    toc: true
+tags: ["Studentprojekt", "vetenskap"]
+---
+
+För läkarstudenter som skriver C eller D-uppsats.
+
+Se även inlägget ["att skriva uppsats"](/tags/vetenskap).
+
+# Style
+
+## Present and past tense
+
+- Method: Past tense (describes what you did).
+- Results: Past tense. Eg "Nitric oxide caused..."
+- Anywhere where earlier data is referenced (into, discussion etc) use past tense. Exception: Accepted facts ("NO decreases blood pressure...")
+- When referring to tables use present tense ("table 1 shows...").
+
+## Misc
+
+- Write simply - get your message across
+- British or American spelling? Check the Instructions for Authors of the journal where you hope to publish your paper. Some journals want you to use British spelling. Others want American spelling. Some even want you to follow the conventions of a specific dictionary. If the journal states a preference, try to do as they suggest. If there is nothing about spelling in the Instructions for Authors, choose whatever system you like – but be consistent!
+
+- If you start a sentence with a number, it must be written in text. This makes large numbers unwieldy, and you should therefore re-phrase the sentence so that it starts with a word instead. 
+
+Eg:
+INCORRECT: 2 groups were defined.
+CORRECT: Two groups were defined.
+INCORRECT: 1200 persons were included in the study.
+CORRECT: A total of 1200 persons were included in the study.
+
+## Grammar
+
+- Subject-verb agreement: English requires that the subject and the verb in a sentence agree in number. A singular subject requires a singular verb form. Plural subjects require plural verb forms. Eg people need vs a man needs.
+- Dangling modifiers: I saw a dog #eating at the town dump#. Make sure the modifier is next to the sentence they are supposed to modyfy. Avoid starting a sentence with "Using" - risk of unclear dangling modifiers.
+
+## Choosing words
+
+- Right level: Avoid specialist jargon. Try it on a reader outside the group. Any misunderstandings can be marked and you should suppose they are your fault, not the readers.
+- String of nouns: A DRAIN is one thing. A PIPE is something else. A DRAINPIPE is another thing entirely. Dont string together too many => rewrite/elucuidate.
+- Strive to use concrete, specific words: Extremities => Arms. Substance => transmitter => noradrenaline.
+- Dont actively seek to use Sesquipedalian circumlocutions: The adjective "sesquipedalian" is used to describe a polysyllabic word (like polysyllabic or sesquipedalian itself). Literally, the word means "a foot-and-a-half long".
+
+## Sentences
+
+- It is easier for YOU to follow along in your line of thought than it is for your readers.
+- Sentence length: If you ask for comments on a draft, and your reader appears confused, check for long sentences. They are easy to spot; all you need to do is count the number of lines they occupy. If you find a long sentence in the confusing section, you can safely assume that it is the sentence's fault. Cut it in two or three pieces.
+- One way to make your text lively is to vary your sentence structure. Mix short sentences with long ones.
+- If you have two closely related messages, link them together with a semicolon; such a linked sentence is grammatically correct provided both phrases being linked are complete sentences.
+- Creating compound sentences by using conjunctions such as "and" or "but" is another way to add variety.
+- Throw in a simple sentence occasionally.
+- Instead of beginning every sentence with an independent clause, put a dependent clause first.
+
+## Efficient language
+
+- Remove filters: When you do research, you carry out an experiment, compile and interpret the results, and draw a conclusion. When you write about that process, it feels perfectly natural to write "We measured mRNA levels and the results indicate that...". But how much does your reader really need to know? For your reader, the important information is the #outcome# of the experiment. It is enough to write "The mRNA levels indicate that..."The words "We measured" and "the results indicate that" in the long version of the sentence serve no real function. They merely emphasize your own role as experimentator, observer, and interpreter. In other words, they highlight "filters" along the path between reality and our understanding of reality.
+- When a sentence describes action + effect, see if you can rewrite it to describe only the effect.
+- Direct phrasing: Get to the point.
+- Avoid abstract nouns: it is possible to create abstract nouns from verbs (usually by adding a suffix such as -tion or -ence). These are called nominalizations. Although they are perfectly acceptable grammatically, they force you to use more words. Here's an example: create --> creation.
+- Unnecessary use of "to be": Ususally has no function. It is easier to smile than to frown => Smiling is easier than frowning.
+- Never state the obvious.
+- Active vs passive voice: Differing opinions on this. John caught a fish => A fish was caught. Editors: Use active voice when possible. Use passive voice when... 1) it does not matter who or what is doing something (eg materials and methods section), 2) When you dont know (discussion section?),
+
+### Some more tips
+
+- remove unnecessary words (e.g., "in this study")
+- combine phrases and sentences to minimize repetition. One good clue in this connection is that adjacent phrases and sentences containing the same words or expressions can often easily be combined.
+- rephrase in other ways, e.g., by writing more directly ("increased" instead of "caused an increase in"; "to determine whether" instead of "in order to examine the possibility that")
+
+## Connections
+
+- Transitions are words that create a logical connection between two ideas. They can be entire phrases, but are often just short, simple words (and, moreover, in addition, but, however, finally, thus, interestingly, nonetheless).
+- Authors often present Fact A and Fact B, and then draw a conclusion without giving any clear indication of how the facts are related. Does Fact B confirm Fact A, or contradict it? Is Fact A a direct cause of Fact B, or completely unrelated? The words you use to connect two thoughts will have a major impact on what information a reader extracts from those thoughts.
+- Clarify your line of thought. How are the conclusions arrived at?
+- Eloquence means expressing a message clearly and persuasively.
+- Also write enjoyable!
+
+## Prepositions
+
+&#x1F517; [Purdue online writing lab](https://owl.english.purdue.edu/owl/resource/594/1/)
+
+&#x1F517; [Guide to grammar](http://grammar.ccc.commnet.edu/grammar/prepositions.htm)
+
+
+## Numbers in text
+
+When submitting a paper, check the journal's Instructions for Authors to see if they have any specific rules about numbers. Some of the most common rules are:
+
+- Spell out numbers up to 10 (or 12).
+- Spell out numbers that contain a maximum of two syllables
+- Spell out numbers that can be written as no more than two words.
+- Numbers at the beginning of a sentence should usually be spelled out in full.
+- Years and dates can be written with numerals. However, to minimize the risk of misunderstanding, it is advisable to spell out the month or use a three-letter abbreviation (Jan, Feb, Mar, etc).
+- Numbers followed by units of measurement are written as numerals (15.6 km, 187 kg, 2 µl). Note that if they occur at the beginning of a sentence, both the number and its unit should be spelled out in full. Thus a sentence that begins "25 g of salt" should be written as "Twenty-five grams of salt" NOT "Twenty-five g of salt".
+- Numbers containing decimals or fractions should always be written as numerals. If they occur at the beginning of a sentence, rewrite the sentence! A sentence that begins "0.9 g/l saline solution was..."  could be rewritten as "Saline solution (0.9 g/l) was..."
+- Bend the rules if necessary to prevent confusion. For example, "The class has 6 18-year-old students" might be misinterpreted to mean "The class has 618-year-old students." Write "6 eighteen-year-old students" or "six 18-year-old students" instead.
+
+# Content
+
+## Introduction
+
+- State the problem, starting with a broad overview. Strive to formulate the problem in a hypothesis (yes/no) or question.
+- Focus readers attentions on the aims of your investigation.
+- Motivate this choice of aims.
+- Describe the research approach briefly, eg "we tested this hypothesis using knock-out mice".
+- Summarize the conclusion (optional), "our findings suggest..."
+- Three paragraphs may be appropriate.
+- Perhaps: Present with enthusiasm [This may not be appreciated by everyone] (ok to use "dramaticallly", "unexpectedly", "interestingly")
+
+### Outline
+
+1. Divide work into sections and subsections with headings
+2. ?
+
+## Material & methods
+
+- Establish your scientific credibility: Appropriate methods.
+- Allow others to reproduce study.
+- Method: How was the evidence obtained.
+- If anything novel in methodology (small change in procedure?), emphasize this.
+- Se icme.org & consort-statement.org
+
+### Outline
+
+1. Substances used: Drugs, reagents, antibodies, chemicals)
+2. Subjects studied: PAtients, animals, cells
+3. Sample collection procedures: Blood, biopsies, cells, proteins, DNA.
+4. Analyses: Activity, quantity, localization, structure.
+5. Statistical analyses.
+
+## Results
+
+- Present the evidence.
+- Validate the evidence (statistics)
+- Show results that relate to the formal argument, avoid excess/irrelevant information.
+- Show results only once. Values in tables & figures should #not# be repeated in the text. Exception: A very important finding.
+- Describe a figure in more general terms in the text (emphasize result).
+
+> Beskriv resultaten i ord och hänvisa till tabeller och figurer. Peka på intressanta resultat, särskilt sådana som du sedan belyser i diskussionsdelen. Upprepa dock inte siffror från tabeller och figurer. Alla tabeller och figurer bör hänvisas till från texten (**Table 1**).
+
+```{r table-one-example, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('table1_example.csv')
+kable(dta, caption = "Baseline characteristics")
+
+```
+
+### Outline
+
+1. Prepare figures and tables: What data are important to convince the reader of my conclusion.
+2. Organize these tables in an appropriate order.
+
+## Discussion
+
+- Discuss implications, Evaluate supportive and conflicting evidence, Draw conclusions.
+- Common problems: Lack of clear line of thoght. Unbalanced treatments of others results. Too much or too little speculation. Boringness.
+
+### Outline
+
+1. Begin with summmarizing the major novel findings in one paragraph. "The major, novel findings in the present investigation are the following..."
+2. Discuss possible underlying mechanisms for the observed assocaiations.
+3. Comparison against what others have reported. "In line with what NN reported...". If discrepancies, compare methods used, even small details. Or "at present, these discrepancies cannot be explained".
+4. Consider possible limitations and strengths. Risk for bias? Small N? Ambigous protocol? Ioannidis, Journal of clinical epidmiology, 2007.
+5. Draw a conclusion - convince!
+6. Discuss possible consequences of your observations (in research or clinical practice).
+
+> Tips: En viss studiedesign är förknippad med vissa typer av problem och begränsningar. Kolla upp vanliga felkällor för den studiedesign du använder (tex kohortstudie). Benämn dessa och beskriv vad (om något) som gjordes i din studie för att minimera effekterna av sådan bias. Deta görs vanligen i avsnittet om "limitations". Exempelvis finns i observationsstudier ofta "confounding by indication", och "residual confounding from measured and unmeasured factors". Andra typer av bias som kan benämnas är tex "selection bias" och "detection bias". Diskutera även extern validitet.
+
+> Tips: När du jämför med tidigare forskning kan du beskriva skillnader och likheter mellan din egen och annan studie exempelvis avseende datakällor (tex register vs journaler), studiepopulationens storlek och sammansättning (skillnader i ålder, kön, sjukdomar), mätmetod för utfallsvariabler (diagnoser vs laboratorieanlyser), hantering av bortfall och bias, uppföljningstidens längd. Du kan spekulera om eventuella olikheter i resultat kan bero på dessa skillnader.
+
+
+## Abstract
+
+Kan med fördel skrivas sist. Det är vanligt att abstract innehåller en sammanfattning av resultaten inklusive en del siffror, eftersom många läsare bara har tillgång till abstractet.
+
+- Background
+  + Kontext.
+  + Varför behövs denna forskning: Vad vi har, vad vi vill ha.
+  + Uppgift/ vad vi gjorde
+  + Syftet med detta arbete
+- Methods
+  + Studiedesign. 
+  + Definition av exposure och outcome.
+- Results
+  + Hur många inkluderades? 
+  + Huvudsakliga resultat inklusive siffror.
+- Conclusion
+  + Summering av resultatet i en mening. 
+  + Perspektiv/potentiell nytta/ klinisk relevans.
+
+[An effective abstract](https://www.nature.com/scitable/content/an-effective-abstract-14194316)
+
+# Litteratursök
+
+```{r table-pico, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('pico.csv')
+kable(dta, caption = "PICO")
+
+```

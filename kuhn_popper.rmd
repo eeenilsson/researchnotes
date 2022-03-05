@@ -1,0 +1,19 @@
+---
+title: "Kuhn och Popper"
+author: "eriknilsson"
+date: 2018-07-17
+categories: ["Artikel"]
+draft: true
+tags: ["Ontologi", "Vetenskap"]
+---
+
+# Paradigm och falsifiering
+
+Kuhn och Popper.
+
+# Den kopernikanska omvälvningen
+
+<img alt="File:Relativity of Simultaneity Animation.gif" src="/media/Apparent_retrograde_motion.gif" data-file-width="400" data-file-height="430" width="400" height="430">
+
+**Animation:** _Motion of Sun, Earth, and Mars according to heliocentrism (left) and to geocentrism (right), before the Copernican-Galilean-Newtonian revolution. Note the retrograde motion of Mars on the right. Yellow dot, Sun; blue, Earth; red, Mars. (In order to create a smooth animation, it is assumed that the period of revolution of Mars is exactly 2 years, instead of the actual value, 1.88 years). The orbits are assumed to be circular in the heliocentric case._ Från Wikipedia, ["Copernican Revolution"](https://en.wikipedia.org/wiki/Copernican_Revolution).
+
