@@ -1,6 +1,6 @@
 # On writing a scientific paper
 
-Notes son the content and style of a scientific paper.
+Notes on the content and style of a scientific paper.
 
 <!-- Se även ["Guide till innehåll i uppsatsens delar"](/post/writing-science-content). -->
 
@@ -10,30 +10,53 @@ Notes son the content and style of a scientific paper.
 
 Most scientific journals accept manuscripts in microsoft word files only. Usually tables and figures are uploaded to the journal submission site separately from the text ("main body"). It can therefore be a good idea to put tables and figures in separate files. 
 
-When a first manuscript draft has been made, it is sent to all authors for commenting and editing. To make this work smoothly you need to systematically use version numbering of the files. Make sure to add the version number to all file names. One method is to use the date as the version number. Eg "manuscript_antidepressants_220102.docx". Enable "track changes" in the word file before sending it out for comments.
+When a first manuscript draft has been made, it is sent to all authors for commenting and editing. To make this work smoothly you need to systematically use version numbering of the files. Make sure to add the version number to all file names. One method is to use the date as the version number. Eg "manuscript_antidepressants_220102.docx".
 
 **Make sure to save backup copies of the manuscript, tables and figures** in a safe place, for examle dropbox, so that you dont loose work in the event of a computer malfunction.
 
 ### Comments and editing by other authors
 
+Enable "track changes" in the word file before sending it out for comments.
+
 When commenting on a version of the manuscript, the one commenting should att their initials to the filename, eg "manuscript_antidepressants_220102_EN.docx".
 
-When all authors have commented, save a new version and accept or reject  the suggested changes using the "track changes" tab in word.
+When all authors have commented, save a new version and accept or reject  the suggested changes using the "track changes" tab in word. Remember that you as the main author is responsible for critically reviewing suggested changes so that the manuscript is kept correct.
 
-Remember that you as the main author is responsible for critically reviewing suggested changes so that the manuscript is kept correct.
+### Authorship
+
+Make clear from the beginning the authorship order. The first author is usually expected to do most of the work on the manuscript (drafting, revising after others comments, submitting the manuscript). All authors should fulfil the [ICJME criteria for authorship](http://icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) and ideally this should be made clear before the work is started.
+
+The ICMJE recommends that authorship be based on the following 4 criteria:
+
+- Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
+- Drafting the work or revising it critically for important intellectual content; AND
+- Final approval of the version to be published; AND
+- Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. 
+
+<!-- http://icmje.org/ -->
 
 ## Litterature search
 
 A systematic search of the litterature covering the subject of the paper should be conducted, for example using the PICO method. 
 
 ```{r table-pico, echo = FALSE, message = FALSE}
-require(knitr)
+
 dta <- read.csv('pico.csv')
 kable(dta, caption = "PICO")
 
 ```
 
-All relevant papers that try to answer the same or a similar research question should be listed in a table, and the main features (N, study type, grop included/excluded, main measures of outcome, etc) noted systematically in the table. The information in the table will be helpful when writing the background and discussion sections of the paper.
+Scan titles/abstracts to identify potentially relevant papers. Read those, make notes, and add important references used in those papers to your list if not already there.
+
+All relevant papers that try to answer the same or a similar research question should be listed in a table (use microsoft excel), and the main features (N, study type, group included/excluded, main measures of outcome, etc) noted systematically in the table. See below for an example. The information in the table will be helpful when writing the background and discussion sections of the paper.
+
+```{r table-litterature, echo = FALSE, message = FALSE}
+
+dta <- read.csv('table_litterature_search.csv')
+names(dta) <- gsub("\\.", " ", names(dta))
+kable(dta, caption = "Table summarising articles found in litterature search")
+
+```
 
 ## Content of a scientific paper
 
@@ -50,34 +73,28 @@ A total of three to five paragraphs is recommended.
 - Motivate this choice of aims.
 - Describe the research approach briefly, eg "we tested this hypothesis using knock-out mice".
 - Summarize the conclusion (optional), "our findings suggest..."
-- Three paragraphs may be appropriate.
-- Perhaps: Present with enthusiasm [This may not be appreciated by everyone] (ok to use "dramaticallly", "unexpectedly", "interestingly")
+- Can perhaps be tried: Present with enthusiasm [This may not be appreciated by everyone] (ok to use "dramaticallly", "unexpectedly", "interestingly")
 
 ### Material & methods
 
-- Establish your scientific credibility: Appropriate methods.
-- Allow others to reproduce study.
-- Method: How was the evidence obtained.
-- If anything novel in methodology (small change in procedure?), emphasize this.
-- Se icme.org & consort-statement.org
+The method section shows how the evidence was obtained. This section should establish your scientific credibility by showing that appropriate methods were used, and allow others to reproduce study. If anything was novel in the methodology (eg a small change in procedure), emphasize this.
 
-#### Outline
+#### Outline of the material & methods section
 
 1. Substances used: Drugs, reagents, antibodies, chemicals)
 2. Subjects studied: PAtients, animals, cells
 3. Sample collection procedures: Blood, biopsies, cells, proteins, DNA.
 4. Analyses: Activity, quantity, localization, structure.
-5. Statistical analyses.
+5. Statistical analyses: Methods used, adjustment variables, testing of model assumptions.
 
 ### Results
 
-- Present the evidence.
-- Validate the evidence (statistics)
-- Show results that relate to the formal argument, avoid excess/irrelevant information.
-- Show results only once. Values in tables & figures should #not# be repeated in the text. Exception: A very important finding.
+The purpose of the results section is to present the evidence and to validate it by showing statistics. You should mainly show results that relate to the formal argument you are making and avoid excess/irrelevant information.
+
+- Show results only once. Values in tables & figures should **not** be repeated in the text. Exception: A very important finding.
 - Describe a figure in more general terms in the text (emphasize result).
 
-> Beskriv resultaten i ord och hänvisa till tabeller och figurer. Peka på intressanta resultat, särskilt sådana som du sedan belyser i diskussionsdelen. Upprepa dock inte siffror från tabeller och figurer. Alla tabeller och figurer bör hänvisas till från texten (**Table 1**).
+> Describe the results in words and make references to tables and figures. Point out interesting results, especially those you bring up in the discussion section. Make connections and summarise patterns. All tables and figures should be referenced from the text (**Table 1**).
 
 ```{r table-one-example, echo = FALSE, message = FALSE}
 require(knitr)
@@ -86,22 +103,22 @@ kable(dta, caption = "Baseline characteristics")
 
 ```
 
-#### Outline
+#### Outline of the results section
 
-1. Prepare figures and tables: What data are important to convince the reader of my conclusion.
+1. Prepare figures and tables: What data are important to convince the reader of my conclusion?
 2. Organize these tables in an appropriate order.
+3. Describe the results in words, referring to tables and figures.
 
 ### Discussion
 
-- Discuss implications, Evaluate supportive and conflicting evidence, Draw conclusions.
-- Common problems: Lack of clear line of thoght. Unbalanced treatments of others results. Too much or too little speculation. Boringness.
+In the discussion section you should discuss implications, evaluate supportive and conflicting evidence, and draw conclusions. Common problems are lack of clear line of thoght, unbalanced treatments of others results, and too much or too little speculation. Also boringness.
 
-#### Outline
+#### Outline of the discussion section
 
-1. Begin with summmarizing the major novel findings in one paragraph. "The major, novel findings in the present investigation are the following..."
+1. Begin with summmarizing the principal findings in one paragraph. "The major, novel findings in the present investigation are the following..."
 2. Discuss possible underlying mechanisms for the observed assocaiations.
 3. Comparison against what others have reported. "In line with what NN reported...". If discrepancies, compare methods used, even small details. Or "at present, these discrepancies cannot be explained".
-4. Consider possible limitations and strengths. Risk for bias? Small N? Ambigous protocol? Ioannidis, Journal of clinical epidmiology, 2007.
+4. Consider possible limitations and strengths [@Ioannidis2007]. Risk for bias? Small N? Ambigous protocol?
 5. Draw a conclusion - convince!
 6. Discuss possible consequences of your observations (in research or clinical practice).
 
@@ -220,11 +237,11 @@ When submitting a paper, check the journal's Instructions for Authors to see if 
 - Bend the rules if necessary to prevent confusion. For example, "The class has 6 18-year-old students" might be misinterpreted to mean "The class has 618-year-old students." Write "6 eighteen-year-old students" or "six 18-year-old students" instead.
 
 
-
-
 ## Tables
 
 Use a clean table layout without colors or shading.
+
+It is common to include a "Table 1" with descriptive statistics on the study group(s). It is usually clearer to separate categorical variables (eg percentages, frequencies) from numerical ones into separate tables, but since there is a limit on the number of tables in the paper one usually has to either combine them in the same table or (if there are not too many variables of a certain kind) to report some of it in the text instead of a table.
 
 ## Figures
 

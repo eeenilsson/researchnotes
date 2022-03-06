@@ -1,0 +1,4 @@
+Author,Year,Population,N,Exposure definition,Outcome definition,Estimate
+Olsson,2019,Major depressive disorder & MADRS >20,279,Escitalopram,MADRS <10,HR 1.2 (CI 1.1-1.3)
+Svensson,2012,Unipolar or bipolar depression,78,Sertraline,HDRS17 <7,HR 0.9 (CI 0.7-1.1)
+Persson,2021,Major depressive disorder & MADRS >20,821,Venlafaxine,MADRS 50% reduction,HR 1.3 (CI 1.1-1.4)

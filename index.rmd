@@ -43,7 +43,8 @@ pacman::p_load(tidyverse,
                kableExtra,
                rsvg,
                svglite,
-               data.table)
+               data.table,
+               knitr)
 
 ## detach(package:plyr) ## to avoid conflict w dplyr
 
