@@ -1,0 +1,134 @@
+# Philosophy of science
+
+## Paradigm och falsifiering
+
+Kuhn och Popper.
+
+## Den kopernikanska omvälvningen
+
+<img alt="File:Relativity of Simultaneity Animation.gif" src="../dropbox/images/researchnotes/Apparent_retrograde_motion.gif" data-file-width="400" data-file-height="430" width="400" height="430">
+
+**Animation:** _Motion of Sun, Earth, and Mars according to heliocentrism (left) and to geocentrism (right), before the Copernican-Galilean-Newtonian revolution. Note the retrograde motion of Mars on the right. Yellow dot, Sun; blue, Earth; red, Mars. (In order to create a smooth animation, it is assumed that the period of revolution of Mars is exactly 2 years, instead of the actual value, 1.88 years). The orbits are assumed to be circular in the heliocentric case._ Från Wikipedia, ["Copernican Revolution"](https://en.wikipedia.org/wiki/Copernican_Revolution).
+
+## Ontology
+
+Consider the context of science.
+
+![Circle of Life](../dropbox/images/researchnotes/lifecircle.jpg)
+
+Figur: Circle of Life. It is based on analysis of small sub-unit rRNA sequences sampled from about 3,000 species from throughout the Tree of Life. From _Life: The Science of Biology, 9th ed., by D. Sadava, D. M. Hillis, H. C. Heller, and M. Berenbaum (Sinauer Associates and W. H. Freeman, 2011)._
+
+### Scale
+
+I filmen "Powers of Ten" zoomas perspektivet från det mikroskopiska till det kosmiska, med skalan noterad i tiopotenser som referens:
+
+<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+
+### Statististisk termodynamik och betydelsen av N
+
+_Eller, Schrödinger utan katten._
+
+En utgångspunkt för biologisk skala är den [statistiska mekaniken](../dropbox/images/researchnotes/stat_TD.pdf). För att biologiska system skall fungera med precision måste deras funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler). <!-- Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet. -->
+
+### Perspektiv på storlek
+
+[I denna interaktiva animation](http://htwins.net/scale2/) kan du klicka dig fram för att jämföra skalan mellan olika objekt.
+
+![UV](../dropbox/images/researchnotes/uv_scale.png)
+_Screenshot från animationen "Scale of the Universe" av Cary Huang._
+
+I filmen "Powers of Ten" zoomas perspektivet från det mikroskopiska till det kosmiska, med skalan noterad i tiopotenser som referens:
+
+<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+
+Nedan följer en film som  jämför storleken på olika planeter och stjärnor:
+
+<iframe width="694" height="555" src="https://www.youtube.com/embed/HEheh1BH34Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+### Sambandet mellan hjärtfrekvens och livslängd
+
+I boken "Scale" tas korrelationen mellan hjärtfrekvens och livslängd upp, vilket kan illustreras med följande figur:
+
+```{r heartbeats, message = F, warning = F, echo = FALSE }
+
+#### Data
+heartbeats <- read.csv('lifetime_heartbeats.csv')
+
+#### Curate
+heartbeats <- heartbeats[2:16,] # delete first and last line
+heartbeats$Heart.Rate <- as.numeric(as.character(heartbeats$Heart.Rate))
+heartbeats$Longevity <- as.numeric(as.character(heartbeats$Longevity))
+heartbeats <- subset(heartbeats, select==1)
+heartbeats$LogHeartRate <- log2(heartbeats$Heart.Rate)
+
+## names(heartbeats)
+require(ggplot2)
+ggplot(heartbeats, aes(x=LogHeartRate, y=Longevity)) +
+    geom_point(size=3, shape=1, color="red")+
+    geom_text(aes(label=heartbeats$Djur),hjust=-0.25, vjust=heartbeats$verticaloffset)+
+    scale_x_continuous(limits = c(4, 10))+
+    ylab("Livslängd (år)")+
+    xlab("Hjärtfrekvens (Log2-skala)")
+
+## ggtitle("Heart Rate and longevity in mammals", subtitle = NULL)
+
+``` 
+**Figur**: Hjärtfrekvens och livstid hos däggdjur. X-axeln är i Log2-skala, vilket innebär att en enhets skillnad motsvarar en fördubbling av hjärtfrekvensen. En människa har hjärtfrekvens 60 slag/minut och en hamster 450 slag/minut. 
+
+Vi ser att människan har en något längre livslängd än vad som skulle förutsägas av vår medelhjärtfrekvens.
+
+Data för figuren kommer från [Thayer Watkins vid San José State University](http://www.sjsu.edu/faculty/watkins/longevity.htm), som också skriver: _A useful line of analysis is to consider the effect of scale changes for creatures which are similar in shape and only differ in scale. As the scale of an animal increases the body weight and volume increase with the cube of scale. The volume of blood flow required to feed that bulk also increases with the cube of scale. The cross sectional area of the arteries and the veins required to carry that blood flow only increases with the square of scale. There are other area-volume relationships which impose limitations on creatures._
+
+### Notering
+
+Genom evolutionen [varierar en arts storlek](http://www.nhm.ac.uk/our-science/our-work/origins-evolution-and-futures/size-matters.html) beroende på temperatur och andra omgivningsfaktorer.
+
+
+### Evolutionens hastighet
+
+- Se artikeln om tid
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkYD3wEuKbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Snabb anpassning
+
+- Snabb evolution vid högt selektionstryck.
+
+- Epigenetik.
+
+### Ideer och sociala seder som evolutionära fenomen
+
+- Ideers evolution. Religiositet. Konsekvenser för etik.
+
+- Sociala fenomen som gagnar generna.
+
+[Podcast med Sam Harris och Bret Weinstein](https://samharris.org/podcasts/109-biology-culture/)
+
+- Bret Weinstein: evolutionary meaning of large-scale patterns in human history
+
+![Evolution of Ideas](../dropbox/images/researchnotes/idea_evolution.png)
+
+## Resources
+
+Bok _[Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582)_ av Geoffrey West. Boken är omtalad och jag läste första kapitlet men blev inte fast. Kanske värt ett till försök?
+
+[Tree of Life](https://tree.opentreeoflife.org/opentree/argus/opentree9.1@ott93302)
+
+[Discover Life](http://www.discoverlife.org/20/m/?tree=Life&res=640&flags=all:&b=WHF_LIFE)
+
+[Circle of Life med tidsperioder inlagda](http://www.bbc.co.uk/nature/life)
+
+[Enklare filmer om evolution](http://www.sumanasinc.com/webcontent/animations/content/evolution/evolution.html)
+
+[Evolution under olika tidsperioder, animering](http://www.pbs.org/wgbh/evolution/change/deeptime/index.html)
+
+[Samling länkar](http://www.bio-alive.com/animations/evolution.htm)
+
+[Spel: Quantum Moves](https://www.scienceathome.org/games/quantum-moves/)
+
+

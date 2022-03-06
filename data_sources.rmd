@@ -1,15 +1,3 @@
----
-title: "Forskningsuppslag"
-author: "Erik Nilsson"
-date: 2018-02-16T21:13:14-05:00
-categories: ["Resurser"]
-description: [Diverse.]
-tags: ["Forskning"]
-draft: true
-toc: true
-
----
-
 # Datakällor
 
 ### [Svensk nationell datatjänst](https://snd.gu.se/sv)

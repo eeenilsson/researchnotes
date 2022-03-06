@@ -1,0 +1,55 @@
+# Introduction
+
+## Synopsis
+
+### Basics
+
+Scientific notation
+
+- Rounding and significant digits
+- Precision
+- Powers of ten
+- Log scale
+
+Basic statistical terms
+
+- Distribution
+- Point and variance estimates
+  - Mean, SD
+  - Median, IQR
+- Ratios
+  - Hazard ratio
+  - Odds ratio
+- Rates
+
+Basic epidemiology
+
+- Cohort studies
+
+### Writing science
+
+- Contents of a paper
+- Reporting guidelines
+  - STROBE
+  - CONSORT
+- Reference management
+- Tables
+- Figures
+
+### Searching the litterature
+
+- Indexing
+- PICO
+- Table of studies
+
+### Publishing papers
+
+### Statistical methods
+
+Linear regression
+
+Logistic regresion
+
+Survival analysis
+
+Dichotomizing
