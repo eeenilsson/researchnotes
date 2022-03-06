@@ -94,14 +94,7 @@ The purpose of the results section is to present the evidence and to validate it
 - Show results only once. Values in tables & figures should **not** be repeated in the text. Exception: A very important finding.
 - Describe a figure in more general terms in the text (emphasize result).
 
-> Describe the results in words and make references to tables and figures. Point out interesting results, especially those you bring up in the discussion section. Make connections and summarise patterns. All tables and figures should be referenced from the text (**Table \@ref(tab:table-one-example)**).
-
-```{r table-one-example, echo = FALSE, message = FALSE}
-require(knitr)
-dta <- read.csv('table1_example.csv')
-kable(dta, caption = "Baseline characteristics")
-
-```
+> Describe the results in words and make references to tables and figures. Point out interesting results, especially those you bring up in the discussion section. You can point out and summarise patterns (eg "comorbid conditions, including diabetes mellitus and heart failure, were more common in the treatment group"), but take care not to interpret or discuss the findings. You should save that for the discussion section.
 
 #### Outline of the results section
 
@@ -122,10 +115,9 @@ In the discussion section you should discuss implications, evaluate supportive a
 5. Draw a conclusion - convince!
 6. Discuss possible consequences of your observations (in research or clinical practice).
 
-> Tips: En viss studiedesign är förknippad med vissa typer av problem och begränsningar. Kolla upp vanliga felkällor för den studiedesign du använder (tex kohortstudie). Benämn dessa och beskriv vad (om något) som gjordes i din studie för att minimera effekterna av sådan bias. Deta görs vanligen i avsnittet om "limitations". Exempelvis finns i observationsstudier ofta "confounding by indication", och "residual confounding from measured and unmeasured factors". Andra typer av bias som kan benämnas är tex "selection bias" och "detection bias". Diskutera även extern validitet.
+> Tips: A certain study design is associated with certain types of problems and limitations. Check common sources of error for the study design you are using (eg chort study). Mention these and what (if anything) has been done to minimize the effects of such biases. That is usually done in the paragraph on "limitations". For example, there is in observational studies often "confounding by indication", and "residual confounding from measured and unmeasured factors". Other types of bias that can be menioned is for example "selection bias" and "detection bias". Also discuss external validity.
 
-> Tips: När du jämför med tidigare forskning kan du beskriva skillnader och likheter mellan din egen och annan studie exempelvis avseende datakällor (tex register vs journaler), studiepopulationens storlek och sammansättning (skillnader i ålder, kön, sjukdomar), mätmetod för utfallsvariabler (diagnoser vs laboratorieanlyser), hantering av bortfall och bias, uppföljningstidens längd. Du kan spekulera om eventuella olikheter i resultat kan bero på dessa skillnader.
-
+> Tips: When comparing with previous research you can describe differences and similarities between your own and another study concering data sources (eg registers vs patient files), size of the study population and its composition (differences in age, sex, medical disorders), methods for measuring outcomes (eg diagnoses vs laboratory analyses), handling of missing data and bias, length of follow-up. You can speculate on whether differences in these things can explain any discrepancies in results.
 
 ### Abstract
 
@@ -239,9 +231,18 @@ When submitting a paper, check the journal's Instructions for Authors to see if 
 
 ## Tables
 
-Use a clean table layout without colors or shading.
+All tables and figures should be referenced from the text (**Table \@ref(tab:table-one-example)**).
+
+```{r table-one-example, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('table1_example.csv')
+kable(dta, caption = "Baseline characteristics")
+
+```
 
 It is common to include a "Table 1" with descriptive statistics on the study group(s). It is usually clearer to separate categorical variables (eg percentages, frequencies) from numerical ones into separate tables, but since there is a limit on the number of tables in the paper one usually has to either combine them in the same table or (if there are not too many variables of a certain kind) to report some of it in the text instead of a table.
+
+When preparing tables, use a clean table layout without colors or shading.
 
 ## Figures
 
