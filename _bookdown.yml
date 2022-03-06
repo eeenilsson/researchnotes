@@ -1,4 +1,4 @@
-rmd_files: ["index.rmd", "introduction.rmd", "writing-science.rmd", "philosophy_science.rmd"]
+rmd_files: ["index.rmd", "introduction.rmd", "writing-science.rmd", "statistical-analysis.rmd", "philosophy_science.rmd"]
 book_filename: forskningsnoter
 output_dir: content
 delete_merged_file: true

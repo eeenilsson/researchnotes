@@ -1,8 +1,26 @@
 # On writing a scientific paper
 
+Notes son the content and style of a scientific paper.
+
 <!-- Se även ["Guide till innehåll i uppsatsens delar"](/post/writing-science-content). -->
 
 <!-- Se även ["Guide till stil och struktur i uppsatsens delar"](/post/writin-science-guide). -->
+
+## Practicalities
+
+Most scientific journals accept manuscripts in microsoft word files only. Usually tables and figures are uploaded to the journal submission site separately from the text ("main body"). It can therefore be a good idea to put tables and figures in separate files. 
+
+When a first manuscript draft has been made, it is sent to all authors for commenting and editing. To make this work smoothly you need to systematically use version numbering of the files. Make sure to add the version number to all file names. One method is to use the date as the version number. Eg "manuscript_antidepressants_220102.docx". Enable "track changes" in the word file before sending it out for comments.
+
+**Make sure to save backup copies of the manuscript, tables and figures** in a safe place, for examle dropbox, so that you dont loose work in the event of a computer malfunction.
+
+### Comments and editing by other authors
+
+When commenting on a version of the manuscript, the one commenting should att their initials to the filename, eg "manuscript_antidepressants_220102_EN.docx".
+
+When all authors have commented, save a new version and accept or reject  the suggested changes using the "track changes" tab in word.
+
+Remember that you as the main author is responsible for critically reviewing suggested changes so that the manuscript is kept correct.
 
 ## Litterature search
 
@@ -203,6 +221,16 @@ When submitting a paper, check the journal's Instructions for Authors to see if 
 
 
 
+
+## Tables
+
+Use a clean table layout without colors or shading.
+
+## Figures
+
+Figures are usually included as small files (eg .png files) when submitting the manuscript, but for the final version larger file formats are required (usually .tif).
+
+
 ## Scientific notation
 
 ### Att skriva stora och små tal
@@ -222,6 +250,10 @@ Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som <
 Om vi till exempel är intresserade av att beskriva avståndet mellan solen och jorden (149 600 000 kilometer) är det oftast inte meningsfullt (eller ens möjligt eftersom det varierar) att ange talet med stor precision. Vi kan då exempelvis välja att ange sträckan med precisionen 150 och skalan x10⁶, dvs <font color="blue">150</font>x10⁶ kilometer.
 
 
+## References in the manuscript
+
+Journals will have different styles for citation (the reference in the text) and bibliography (the reference list at the end of the manuscript). You therefore need to use a refrence management software, such as EndNote or Zotero, so that you can easily swith between styles. However the link between citation and bibliography can easily be broken when the manuscript is sent around for review by the other authors. Therefore, when drafting the manuscript, one way is to use author name and year in parentheses instead of numbers, so that the refrences dont get mixed up.
+
 ## Resources
 
 ### Style guide
@@ -230,9 +262,7 @@ Om vi till exempel är intresserade av att beskriva avståndet mellan solen och 
 
 &#x1F517; [APA style](https://www.apastyle.org/) gives guidance on how details in scientific papers can be presented, for example the formatting of tables. For complete information, there are published books on APA style, but some information is available online, for example: [&#x1F517; Purdue Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
 
-&#x1F517; [Riktlinjer för utformning av figurer](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_tables_and_figures_2.html)
-
-&#x1F517; [Riktlinjer för utformning av tabeller](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_tables_and_figures_1.html)
+&#x1F517; [Purdue University Writing Lab Guide for figures and tables](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_tables_and_figures.html)
 
 ### Reporting checklists {#reporting-checklists}
 

@@ -1,0 +1,131 @@
+# Statistical analysis
+
+## Basics
+
+You should acquaint yourself with some common statistical terms.
+
+Statistics are used to describe and summarise the data (descriptive statistics) and to calculate measures of association between variables. Some basic statistical terms that you should be familiar with are listed below.
+
+- Normal distribution. Whether the data is normally distributed decides what statistics are appropriate to describe it and to test associations.
+- Mean (a "point estimate") and standard deviation (a "variance estimate").  these are appropriate for data with normal distribution.
+- Median (point) and Quartiles (variance). These are appropriate for non-normally distributed data. Other quantiles (aka percentiles) and interquartile range
+- Types of variables: Continuous, categorical, nominal, ordinal.
+
+&#x1F517; [A website with description of common statistical terms](http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm)
+
+
+&#x1F517; [mean and median](https://www.youtube.com/watch?v=JFesFhraX2M)
+
+![](/media/normal-distribution.png)
+
+**Figure:** Normal distribution. Source: [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution).
+
+## Hypothesis testing
+
+In contrast to descriptive statistics, methods used for hypothesis testing provides an estimate or test for differences between groups or associations between variables. The statistical terms below are useful to know.
+
+- T-test
+- Chi-2-test
+- P-value
+- Power
+- Type I error
+- Type II error
+
+## Study design
+
+Descriptions of different study designs: 
+
+&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
+
+&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
+
+## Figures
+
+### Box-and-Whisker Plot
+
+Aka "Boxplot".
+
+![](/media/boxplot.gif)
+
+**Figure:** Boxplot. Source: [Flowingdata](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/).
+
+&#x1F517; [Om boxplot ](http://amsi.org.au/teacher_modules/Data_investigation_year_10.html#Quartiles_and_boxplots)
+
+&#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+## Other stuff
+
+&#x1F517; [Pitfalls in the scientific process](http://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble)
+
+&#x1F517; [Open data](http://www.icsu.org/science-international/accord)
+
+## Software for statistical analysis
+
+&#x1F517; [Using excel for statistics](http://www.real-statistics.com/)
+
+&#x1F517; [R](https://www.r-project.org/) is a free and powerful statistical software. Recommended if you like computer programming.
+
+## Resources
+
+### Youtube clips on statistics (in swedish)
+
+This is a bit beyond the basics.
+
+Av Kimmo Sorjonen, KI. SPSS is used.
+
+&#x1F517; [SPSS, ANOVA, Del A, Envägs](https://www.youtube.com/watch?v=Z1SP6-3ky2Y)
+
+&#x1F517; [SPSS, ANOVA, Del B, Multivariat](https://www.youtube.com/watch?v=SdlcqEGNTMU)
+
+&#x1F517; [SPSS, ANOVA, Del C, Upprepade mätningar](https://www.youtube.com/watch?v=_LiqKSc4kJ8)
+
+&#x1F517; [SPSS, ANOVA, Del D, Multivariat med upprepade mätningar](https://www.youtube.com/watch?v=k-xIyhfVdbM)
+
+&#x1F517; [SPSS, ANOVA, Del E, Kovariansanalys](https://www.youtube.com/watch?v=6IofcgsTSmI)
+
+&#x1F517; [SPSS, Regression, Del A, Multipel](https://www.youtube.com/watch?v=5LTQRdZQgdI)
+
+&#x1F517; [SPSS, Regression, Del B, Kurvlinjärt](https://www.youtube.com/watch?v=P0bHAd2f4Pc)
+
+&#x1F517; [SPSS, Regression, Del C, Interaktion](https://www.youtube.com/watch?v=gzwJmgRwP78)
+
+&#x1F517; [SPSS, Regression, Del D, Logistisk](https://www.youtube.com/watch?v=kuKZHtrdcGw)
+
+&#x1F517; [SPSS, Risk- och Odds-kvoter](https://www.youtube.com/watch?v=1qhk4SsEuac)
+
+&#x1F517; [SPSS, Faktoranalys, Del A](https://www.youtube.com/watch?v=KMNXXxqF8mY)
+
+&#x1F517; [SPSS, Faktoranalys, Del B](https://www.youtube.com/watch?v=fNCohP9dHlc)
+
+&#x1F517; [SPSS, Faktoranalys, Del C](https://www.youtube.com/watch?v=nBlJ3LyF_Po)
+
+&#x1F517; [SPSS, Faktoranalys, Del D](https://www.youtube.com/watch?v=r8UJnzowu1A)
+
+&#x1F517; [SEM med AMOS, Del A, Speca modell](https://www.youtube.com/watch?v=u9y3Jm4HSIY)
+
+&#x1F517; [SEM med AMOS, Del B, Parametrar](http://www.youtube.com/watch?v=G8uPc6ZhsWw)
+
+&#x1F517; [SEM med AMOS, Del C, Model fit och modifiering](http://www.youtube.com/watch?v=udB_-KsdR6E)
+
+&#x1F517; [SEM med AMOS, Del D, Effekter](http://www.youtube.com/watch?v=4xnsJoRKN_0)
+
+&#x1F517; [SPSS, MLM (LMM), Del A, Tvärsnitt, Fixed effect](http://www.youtube.com/watch?v=Twj5NfneOCY)
+
+&#x1F517; [SPSS, MLM (LMM), Del B, Tvärsnitt, Random effect + Interaktion](http://www.youtube.com/watch?v=kCN1m5k1RKs)
+
+&#x1F517; [SPSS, MLM (LMM), Del C, Tvärsnitt, Kategoripresiktorer + Trevägs interaktion](http://www.youtube.com/watch?v=j8edoSdu9JI)
+
+&#x1F517; [SPSS, MLM (LMM), Del D, Upprepade, Restructure](http://www.youtube.com/watch?v=NDJfZnioJZU)
+
+&#x1F517; [SPSS, MLM (LMM), Del E, Upprepade, Random effect](http://www.youtube.com/watch?v=3bGiGz-50qY)
+
+&#x1F517; [SPSS, MLM (LMM), Del F, Upprepade, Tvåvägs interaktion](http://www.youtube.com/watch?v=dRFy20HD__w)
+
+&#x1F517; [SPSS, MLM (LMM), Del G, Upprepade, Trevägs interaktion](http://www.youtube.com/watch?v=fExWt70Dufo)
+
+## Mall för rapportering av randomiserade kontrollerade studier: CONSORT
+
+&#x1F517; [CONSORT webpage](http://www.consort-statement.org/)
+
+[Consort checklist](http://www.consort-statement.org/download/Media/Default/Downloads/CONSORT%202010%20Checklist.doc)
+
