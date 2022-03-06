@@ -81,8 +81,8 @@ The method section shows how the evidence was obtained. This section should esta
 
 #### Outline of the material & methods section
 
-1. Substances used: Drugs, reagents, antibodies, chemicals)
-2. Subjects studied: PAtients, animals, cells
+1. Substances used: Drugs, reagents, antibodies, chemicals.
+2. Subjects studied: Patients, animals, cells.
 3. Sample collection procedures: Blood, biopsies, cells, proteins, DNA.
 4. Analyses: Activity, quantity, localization, structure.
 5. Statistical analyses: Methods used, adjustment variables, testing of model assumptions.
@@ -94,7 +94,7 @@ The purpose of the results section is to present the evidence and to validate it
 - Show results only once. Values in tables & figures should **not** be repeated in the text. Exception: A very important finding.
 - Describe a figure in more general terms in the text (emphasize result).
 
-> Describe the results in words and make references to tables and figures. Point out interesting results, especially those you bring up in the discussion section. Make connections and summarise patterns. All tables and figures should be referenced from the text (**Table 1**).
+> Describe the results in words and make references to tables and figures. Point out interesting results, especially those you bring up in the discussion section. Make connections and summarise patterns. All tables and figures should be referenced from the text (**Table \@ref(tab:table-one-example)**).
 
 ```{r table-one-example, echo = FALSE, message = FALSE}
 require(knitr)
