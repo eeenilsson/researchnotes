@@ -291,12 +291,6 @@ Consider what kind of plot to use based on the type of variables that are displa
 
 To write concisely, very large or very small numbers are written using  [scientific notation](https://en.wikipedia.org/wiki/Scientific_notation). Numbers are then written in powers of ten, eg two million = 2x10^6.
 
-### Perspektiv: Powers of Ten
-
-<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
-
 ### <font color="blue">Mantissa</font>: Scale verus precision
 
 Take the following example: The number Talet 125 000 can be written in scientific notation as <font color="blue">1.25</font>x10^3, where the part <font color="blue">1.25</font> (the "mantissa" or "significant") represents the precision of the number, while 10³ (the "power term") represents the scale of the number.

@@ -31,6 +31,16 @@ knitr::kable(data.frame(a = 1:10, b = 1:10), format = "markdown")
 ## Plot single pages
 source('antipsychotics-dosing-interval.r', encoding='utf-8')
 
+pacman::p_load(medicaldata)
+## Each dataset is documented in three ways:
+##     a help file, which can be accessed with help('dataset_name') from the Console pane
+##     a pdf document describing the study, found at the Github README page here
+##     a pdf codebook, found at the Github README page here
+data(strep_tb)
+objects()
+str(strep_tb)
+
+
 ##render("presentation_beamer.rmd", "beamer_presentation") ## presentation
 ##render("public_defence_application_part1a.rmd", "pdf_document", encoding="UTF-8")
 
