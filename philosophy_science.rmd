@@ -18,14 +18,6 @@ Consider the context of science.
 
 Figur: Circle of Life. It is based on analysis of small sub-unit rRNA sequences sampled from about 3,000 species from throughout the Tree of Life. From _Life: The Science of Biology, 9th ed., by D. Sadava, D. M. Hillis, H. C. Heller, and M. Berenbaum (Sinauer Associates and W. H. Freeman, 2011)._
 
-### Scale
-
-I filmen "Powers of Ten" zoomas perspektivet från det mikroskopiska till det kosmiska, med skalan noterad i tiopotenser som referens:
-
-<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
-
 ### Statististisk termodynamik och betydelsen av N
 
 _Eller, Schrödinger utan katten._

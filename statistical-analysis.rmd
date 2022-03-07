@@ -20,7 +20,7 @@ Statistics are used to describe and summarise the data (descriptive statistics) 
 
 **Figure:** Normal distribution. Source: [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution).
 
-## Hypothesis testing
+### Hypothesis testing
 
 In contrast to descriptive statistics, methods used for hypothesis testing provides an estimate or test for differences between groups or associations between variables. The statistical terms below are useful to know.
 
@@ -31,7 +31,7 @@ In contrast to descriptive statistics, methods used for hypothesis testing provi
 - Type I error
 - Type II error
 
-## Study design
+### Study design
 
 Descriptions of different study designs: 
 
@@ -52,6 +52,16 @@ Aka "Boxplot".
 &#x1F517; [Om boxplot ](http://amsi.org.au/teacher_modules/Data_investigation_year_10.html#Quartiles_and_boxplots)
 
 &#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+## Beyond the basics
+
+Understanding of the following, including knowing when to use and how to interpret:
+
+- Logistic regression and odds ratios
+- Cox regresison and hazard ratios
+- Model assumptions (eg multivariate normality)
+- Tests of model fit
+- Interactions
 
 ## Other stuff
 

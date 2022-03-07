@@ -33,15 +33,16 @@ some-more-tips
 connections
 prepositions
 numbers-in-text
+rounding-of-numbers
 tables
 figures
 scientific-notation
-att-skriva-stora-och-små-tal
+large-and-small-numbers
 perspektiv-powers-of-ten
-mantissan-skala-respektive-precision.
+mantissa-scale-verus-precision
 references-in-the-manuscript
 resources
-style-guide
+style-guides
 reporting-checklists
 statistical-analysis
 basics-1
@@ -49,6 +50,7 @@ hypothesis-testing
 study-design
 figures-1
 box-and-whisker-plot
+beyond-the-basics
 other-stuff
 software-for-statistical-analysis
 resources-1
@@ -58,7 +60,6 @@ philosophy-of-science
 paradigm-och-falsifiering
 den-kopernikanska-omvälvningen
 ontology
-scale
 statististisk-termodynamik-och-betydelsen-av-n
 perspektiv-på-storlek
 sambandet-mellan-hjärtfrekvens-och-livslängd
