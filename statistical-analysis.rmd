@@ -31,14 +31,6 @@ In contrast to descriptive statistics, methods used for hypothesis testing provi
 - Type I error
 - Type II error
 
-### Study design
-
-Descriptions of different study designs: 
-
-&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
-
-&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
-
 ## Figures
 
 ### Box-and-Whisker Plot

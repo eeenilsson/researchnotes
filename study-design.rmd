@@ -1,7 +1,5 @@
 # Study design
 
-See [An introduction to different types of study design](https://s4be.cochrane.org/blog/2021/04/06/an-introduction-to-different-types-of-study-design/)
-
 **Some examples:**
 
 - Descriptive studies
@@ -14,6 +12,12 @@ See [An introduction to different types of study design](https://s4be.cochrane.o
 - Experimental studies (aka interventional studies)
   - Randomized controlled trials (parallel arm, crossover)
   - Lab trials
+
+&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
+
+&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
+
+&#x1F517; [An introduction to different types of study design](https://s4be.cochrane.org/blog/2021/04/06/an-introduction-to-different-types-of-study-design/)
 
 # Bias
 
@@ -33,7 +37,7 @@ See "Confounding in observational studies based on large health care databases: 
 
 > "Misclassification bias arises by incorrect information about either exposure or outcome or covariates for the study participants." [@EnceppGuide]
 
-It can be useful to cite papers that validate the classifications you are using (eg if you use diagnostic codes [@Ludvigsson2011;@Schaufelberger2019;@Rizzuto2018;@Appelros2011;@Ruck2015]).
+It can be useful to cite papers that validate the classifications you are using (eg if you use diagnostic codes from the Swedish national patient register see [@Ludvigsson2011;@Schaufelberger2019;@Rizzuto2018;@Appelros2011;@Ruck2015]).
 
 Sensitivity analyses using different methods for classification of exposure, outcome, and covariables can be considered.
 
@@ -49,7 +53,7 @@ This is often found in studies that use comparisons against ‘non-users’. See
 
 #### Immeasurable time bias
 
-See misclassification of exposure.
+<!-- See misclassification of exposure. -->
 
 ### Time varying confounding
 
@@ -70,7 +74,6 @@ Consider handling of missing data, for example using multiple imputation. Adjust
 ### Healthy user effect
 
 >"The healthy user effect is best described as the propensity for patients who receive one preventive therapy to also seek other preventive services or partake in other healthy behaviors." [@Shrank2011]
-
 
 Using an active comparator (in pharmacoepidemiology) reduces selection bias.
 

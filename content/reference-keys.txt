@@ -46,7 +46,6 @@ reporting-checklists
 statistical-analysis
 basics-1
 hypothesis-testing
-study-design
 figures-1
 box-and-whisker-plot
 beyond-the-basics
@@ -55,7 +54,7 @@ software-for-statistical-analysis
 resources-1
 youtube-clips-on-statistics-in-swedish
 mall-för-rapportering-av-randomiserade-kontrollerade-studier-consort
-study-design-1
+study-design
 bias
 information-bias
 time-related-bias
