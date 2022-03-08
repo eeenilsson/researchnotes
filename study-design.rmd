@@ -1,0 +1,122 @@
+# Study design
+
+See [An introduction to different types of study design](https://s4be.cochrane.org/blog/2021/04/06/an-introduction-to-different-types-of-study-design/)
+
+**Some examples:**
+
+- Descriptive studies
+  - Case reports
+  - Case series
+- Observational studies
+  - Cross-sectional studies
+  - Cohort studies (prospective, retrospective)
+  - Case-Control studies
+- Experimental studies (aka interventional studies)
+  - Randomized controlled trials (parallel arm, crossover)
+  - Lab trials
+
+# Bias
+
+Bias is any systematic error that leads to incorrect results or interpretation. Below, some types of bias are listed, with focus on pharmacoepidemiological studies. 
+
+Bias should be considered in the planning stage of the study, and addressed in the study protocol.
+
+There are different ways to categorize bias, but main categories are [@EnceppGuide]:
+
+- Selection bias: Subjects do not rrepresent the source population.
+- Misclassification bias: Incorrect information about exposure, covariables, or outcome.
+- Confounding: Imbalance between groups regarding factors that affect the outcome.
+
+See "Confounding in observational studies based on large health care databases: problems and potential solutions" [@Norgaard2017].
+
+## Information bias
+
+> "Misclassification bias arises by incorrect information about either exposure or outcome or covariates for the study participants." [@EnceppGuide]
+
+It can be useful to cite papers that validate the classifications you are using (eg if you use diagnostic codes [@Ludvigsson2011;@Schaufelberger2019;@Rizzuto2018;@Appelros2011;@Ruck2015]).
+
+Sensitivity analyses using different methods for classification of exposure, outcome, and covariables can be considered.
+
+### Time-related bias
+
+> "Most often a form of differential misclassification bias and should be recognised as they can be generally avoided by appropriate accounting of follow-up time and exposure status" [@EnceppGuide]
+
+#### Immortal time bias
+
+> "Immortal time bias in pharmacoepidemiology refers to a period of cohort follow-up time during which death (or an outcome that determines end of follow-up) cannot occur." [@EnceppGuide]
+
+This is often found in studies that use comparisons against ‘non-users’. See "Immortal Time Bias in Pharmacoepidemiology" [@Suissa2008] for examples.
+
+#### Immeasurable time bias
+
+See misclassification of exposure.
+
+### Time varying confounding
+
+See Handling time varying confounding in observational research [@Mansournia2017]
+
+### Surveillance bias
+
+>"<!-- Surveillance bias -->Arises when patients in one exposure group have a higher probability of having the study outcome detected, due to increased surveillance, screening or testing of the outcome itself, or an associated symptom." [@EnceppGuide]
+
+>"This non-random type of misclassification bias can be reduced by selecting an unexposed comparator group with a similar likelihood of screening or testing, selecting outcomes that are likely to be diagnosed equally in both exposure groups, or by adjusting for the surveillance rate in the analysis." [@EnceppGuide]
+
+Consider handling of missing data, for example using multiple imputation. Adjust for confounders. Use an active comparator group (in pharmacoepidemiology).
+
+## Selection bias
+
+>"Selection bias entails the selective recruitment into the study of subjects that are not representative of the exposure or outcome pattern in the source population." [@EnceppGuide]
+
+### Healthy user effect
+
+>"The healthy user effect is best described as the propensity for patients who receive one preventive therapy to also seek other preventive services or partake in other healthy behaviors." [@Shrank2011]
+
+
+Using an active comparator (in pharmacoepidemiology) reduces selection bias.
+
+### The healthy adherer effect
+
+>"The healthy adherer effect arises when patients who adhere to preventive therapy are more likely to engage in other healthy behaviors than their non-adherent counterparts." [@Shrank2011]
+
+### Depletion of susceptibles
+
+>"Unwanted exclusion from a safety assessment of persons discontinuing treatments following early adverse reactions" [@EnceppGuide]
+
+New user design avoids this.
+
+## Confounding
+
+> "Confounding is a bias in estimating an epidemiologic measure of effect resulting from an imbalance of other determinants of disease (or their proxies) in the compared groups." [@EnceppGuide]
+
+Consider carefully what confounders you should adjust for, and which ones you dont have information on (this can be noted as a limitation in the discussion section of the manuscript).
+
+### Confounding by indication
+
+>"Confounding by indication refers to a determinant of the outcome parameter that is present in people at perceived high risk or poor prognosis and is an indication for intervention." [@EnceppGuide]
+
+Example CCB [@Joffe2000]
+
+### Protopathic bias
+
+>"Protopathic bias arises when the initiation of a drug (exposure) occurs in response to a symptom of the (at this point undiagnosed) disease under study (outcome). [...] It may be handled by including a time-lag, i.e. by disregarding all exposure during a specified period of time before the index date." [@EnceppGuide]
+
+### Unmeasured confounding and ways to measure confounding
+
+Consider ways to measure confounding. Consider sensitivity analysis of unmeasured confounding [@Schneeweiss2006;@Joffe2000]. 
+
+<!-- Also DAGs -->
+
+<!-- Lash TL, Fox MP, Fink AK. Sensitivity Analysis for Unmeasured Confounding Applying Quantitative Bias Analysis to Epidemiological Data. Oxford, UK: Springer Verlag; 2009. -->
+
+<!-- "If severity measures are not available, proxy measures, such as use of health care services and use of certain medications, should be considered, and these proxies may also be combined. " \cite{Norgaard2017} -->
+
+<!-- "High-dimensional propensity score adjustment is a technique initially developed to empirically identify and select a large number of covariates from routine health care data, which when combined, allow for high-dimensional proxy adjustment that would reduce residual confounding. Also when compared with conventional propensity score methods, high-dimensional propensity score may better control confounding by indication in pharmacoepidemiological studies" \cite{Norgaard2017} -->
+
+<!-- Self-controlled designs, active comparator, pseudorandomisation, instrumental variable -->
+
+
+<!-- Sensitivity analysis tools: http://www.drugepi.org/dope-downloads/ -->
+
+<!-- How strong does an unmeasured confounder have to be to fully explain the observed findings? \cite{Schneeweiss2006} -->
+
+
