@@ -107,7 +107,12 @@ Example CCB [@Joffe2000]
 
 Consider ways to measure confounding. Consider sensitivity analysis of unmeasured confounding [@Schneeweiss2006;@Joffe2000]. 
 
-<!-- Also DAGs -->
+Directed Acyclic Graphs (DAGs) can be used to reason about cause and effect, and to reduce the number of confounders that needs to be used in a regression model.
+
+![Figur: Topological ordering](/media/topological_ordering.png)
+
+[From wikipedia:](https://en.wikipedia.org/wiki/Directed_acyclic_graph) _A topological ordering of a directed acyclic graph: every edge goes from earlier in the ordering (upper left) to later in the ordering (lower right). A directed graph is acyclic if and only if it has a topological ordering.)_
+
 
 <!-- Lash TL, Fox MP, Fink AK. Sensitivity Analysis for Unmeasured Confounding Applying Quantitative Bias Analysis to Epidemiological Data. Oxford, UK: Springer Verlag; 2009. -->
 
